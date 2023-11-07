@@ -1,0 +1,26 @@
+#EXTM3U  url="https://raw.githubusercontent.com/ZapBorr/ZapBorr/main/SPORTS.m3u"
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS" tvg-logo="https://www.i-pic.info/i/XUfV565737.jpg"
+
+#EXTINF:-1 tvg-id="" tvg-name="BALLTHAI 1" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_1.png" group-title="BALL THAI",BALLTHAI 1
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL001/HLS/TL001.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BALLTHAI 2" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_2.png" group-title="BALL THAI",BALLTHAI 2
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL002/HLS/TL002.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BALLTHAI 3" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_3.png" group-title="BALL THAI",BALLTHAI 3
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL003/HLS/TL003.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BALLTHAI 4" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_4.png" group-title="BALL THAI",BALLTHAI 4
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL004/HLS/TL004.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BALLTHAI 5" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_5.png" group-title="BALL THAI",BALLTHAI 5
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL005/HLS/TL005.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BALLTHAI 6" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_6.png" group-title="BALL THAI",BALLTHAI 6
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL006/HLS/TL006.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BALLTHAI 7" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_7.png" group-title="BALL THAI",BALLTHAI 7
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL007/HLS/TL007.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BALLTHAI 8" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_8.png" group-title="BALL THAI",BALLTHAI 8
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL008/HLS/TL008.m3u8
