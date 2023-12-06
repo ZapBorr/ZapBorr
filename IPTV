@@ -1,7 +1,7 @@
 #EXTINF:-1 tvg-chno="2" tvg-id="NBT HD" tvg-name="NBT HD" tvg-logo="https://cms.dmpcdn.com/livetv/2020/08/19/1ff76c00-e1f4-11ea-a0b4-232d08119930_original.png" group-title="Digital TV",NBT HD
-https://cdn6.goprimetime.info/feed/202306140918/chnbt3/index.m3u8
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0001/HLS/V0001.m3u8
 #EXTINF:-1 tvg-chno="3" tvg-id="THAI PBS HD" tvg-name="THAI PBS HD" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png" group-title="Digital TV",THAI PBS HD
-https://cdn6.goprimetime.info/feed/202306140918/chthaipbs3/index.m3u8
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0014/HLS/V0014.m3u8
 #EXTINF:-1 tvg-chno="4" tvg-id="ALTV" tvg-name="ALTV" tvg-logo="https://cms.dmpcdn.com/livetv/2020/07/14/72c22620-c5aa-11ea-a8d3-2b56c8ce453d_original.png" group-title="Digital TV",ALTV
 https://cdn6.goprimetime.info/feed/202306140918/ALTV/index.m3u8
 #EXTINF:-1 tvg-chno="5" tvg-id="TV5 HD" tvg-name="TV5 HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/18/7e060a10-2515-11ee-864f-a52221dad038_webp_original.webp" group-title="Digital TV",TV5 HD
