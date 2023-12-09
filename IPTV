@@ -112,8 +112,6 @@ https://sv2.wacthstream.com/wacth_tv/560_EXPLORE_LIFE/playlist.m3u8?wmsAuthSign=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202306140918/LC8/index.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://wacthstream.com/stream_live/goodtv40_ThaiNess./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDIzIDExOjQzOjI0IEFNJmhhc2hfdmFsdWU9SnNmTVk2TWV6eW9FeGNnNHROSUZPZz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzc5MTMw
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/tXr6CPL/sweet.png" group-title="Good TV",Sweet
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202306140918/LC58/index.m3u8
