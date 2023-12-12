@@ -1,3 +1,4 @@
-#EXTM3U url-tvg="https://github.com/akkradet/IPTV-THAI/raw/master/guide.xml,https://www.bevy.be/bevyfiles/thailand.xml" refresh="3600" 
+#EXTM3U url-tvg="https://github.com/akkradet/IPTV-THAI/raw/master/guide.xml,https://www.bevy.be/bevyfiles/thailand.xml" refresh="3600"
+#KODIPROP:inputstream.adaptive.license_key=https://license.ais-vidnt.com/ri/licenseManager.do?pallycon-customdata-v2=eyJkcm1fdHlwZSI6IlBsYXlSZWFkeSIsInNpdGVfaWQiOiJLT1FSIiwidXNlcl9pZCI6IjVmMzhiOGViYWNhMmU1N2Y5ODhlYzdlOCIsImNpZCI6IlYwMTkyIiwidG9rZW4iOiI2aldidEJYb0x2bzVqWFNwZm40c1dUMHJUNEZHanErbVljL2VvT2VDSkpnSE5ZTW4vMXFrSDN1cVdTei81TW5nNUVYdVo1Mm5zK05aUW5Nekl1TWZLSVpscmdsajdHWG9rRGhYMnpsNWdTOEtZWXhyRDRGZTRscm9LMGpVblBNSCIsInRpbWVzdGFtcCI6IjIwMjMtMTItMTJUMDM6Mzk6MzJaIiwiaGFzaCI6IktmZWxtWEM1bUN0azRJVURHMVpUS1FrWjBPb2w0T0w4Znl0TkNCb0NQU2M9In0=
 #EXTINF:-1 tvg-chno="2" tvg-id="truepremierfootball1.th" tvg-name="SPOTV 1" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.webp" group-title="True Premier",SPOTV 1
 https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0192/HLS/V0192.mpd
