@@ -1,2 +1,21 @@
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv1/th-sport/spotv1/chunks.m3u8?nimblesessionid=35063523
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv2/th-sport/spotv2/chunks.m3u8?nimblesessionid=35063634
+#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/sportv.jpg" group-title="" ,ช่อง: SPOTV
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/sportv2.jpg" group-title="" ,ช่อง: Spotv2
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/sportv.jpg" group-title="" ,ช่อง: SPOTV
+#EXTVLCOPT:http-referrer=https://fin99live.com/
+https://dolive.thaim3u.com/OEWMKDRkceljwjESl2rpE0VoeBHF5IBw/true-spotv-1/chunks.m3u8?nimblesessionid=931059&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAyMyAyOjQ3OjUwIEFNJmhhc2hfdmFsdWU9TzVzakliNVNTMW1Ud1lQbjM5SnA4dz09JnZhbGlkbWludXRlcz02MA==
+#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/sportv2.jpg" group-title="" ,ช่อง: Spotv2
+#EXTVLCOPT:http-referrer=https://fin99live.com/
+https://dolive.thaim3u.com/OEWMKDRkceljwjESl2rpE0VoeBHF5IBw/true-spotv-2/chunks.m3u8?nimblesessionid=931316&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAyMyAyOjQ3OjUwIEFNJmhhc2hfdmFsdWU9TzVzakliNVNTMW1Ud1lQbjM5SnA4dz09JnZhbGlkbWludXRlcz02MA==
+
+
+#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/sportv.jpg" group-title="" ,ช่อง: SPOTV
+#EXTVLCOPT:http-referrer=https://fin99live.com/
+https://dolive.thaim3u.com/OEWMKDRkceljwjESl2rpE0VoeBHF5IBw/true-spotv-1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/sportv2.jpg" group-title="" ,ช่อง: Spotv2
+#EXTVLCOPT:http-referrer=https://fin99live.com/
+https://dolive.thaim3u.com/OEWMKDRkceljwjESl2rpE0VoeBHF5IBw/true-spotv-2/chunks.m3u8
