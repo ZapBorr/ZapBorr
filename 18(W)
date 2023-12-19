@@ -30,7 +30,27 @@
 
 },
 
+{
+
+"name" : "True NFL&NBA TV",
+
+"image" : "https://cms.dmpcdn.com/livetv/2022/12/22/d9313340-81d9-11ed-a7f9-412bbba270e9_webp_original.webp",
+
+"url" : "https://rr5---sn-w5nuxa-c33lk-14.googleuservideo.com/ballhd24liv_e1/2nba_480p/chunks.m3u8",
+
+"referer" : "https://www.ballhd24.live/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
 
 
+
+]
 
 }
+
