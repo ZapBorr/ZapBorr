@@ -47,7 +47,7 @@ https://49-231-34-109-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0022/HLS/
 https://edge2-bkk.3bb.co.th:9443/Web_CartoonClub_Live/cartoonclub_480P.stream/chunklist_w1788175224.m3u8
 #EXTINF:-1 tvg-chno="38" tvg-id="Boomerang.th" tvg-name="BOOMERANG" tvg-logo="https://i.imgur.com/Ruc88XO.png" group-title="Kids",BOOMERANG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/chboomberang/index.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chboomberang/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="BALLTHAI 1" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_1.png" group-title="BALL THAI",BALLTHAI 1
 https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL001/HLS/TL001.m3u8
@@ -109,34 +109,74 @@ https://rr5---sn-w5nuxa-c33lk-14.googleuservideo.com/ballhd24liv_e2/2sport7_480p
 https://rr5---sn-w5nuxa-c33lk-14.googleuservideo.com/ballhd24liv_e1/truetennis_480p/chunks.m3u8
 
 
-#EXTINF:-0 tvg-id="TrueExploreLife.th" tvg-name="True Explore LIFE" tvg-logo="https://dl.dropbox.com/s/fnvsc8ab9fb8phd/trueexplorerlife.png?dl=0" group-title="TRUE VISIONS",True Explore LIFE
-https://sv2.wacthstream.com/wacth_tv/560_EXPLORE_LIFE/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDIzIDExOjE4OjI3IEFNJmhhc2hfdmFsdWU9eFpNTzhKaVdlNUlWT0NZenNVV2Izdz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzIyMDI4
+#EXTINF:-0 tvg-id="CrimeInvestigation" tvg-name="Crime Investigation" tvg-logo="https://cms.dmpcdn.com/livetv/2022/10/11/f09e41a0-492e-11ed-bb17-0527d4e1664c_webp_original.webp" group-title="TRUE VISIONS", Crime Investigation
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+https://wacthstream.com/stream_live/557_H2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDIzIDExOjM1OjA3IEFNJmhhc2hfdmFsdWU9TS8veDZwVy81T2pvNWdJZmlSc3VUQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzQ2OTQ4
 
-#EXTINF:-1 tvg-id="Sumlojlok.th" tvg-name="สำรวจโลก" tvg-logo="https://i.ibb.co/Pm84NSc/goodtv.jpg" group-title="Good TV",สำรวจโลก
+#EXTINF:-1 tvg-id="OUTDOOR" tvg-name="OUTDOOR" tvg-logo="https://dl.dropbox.com/s/ed7x1ozg9iz4s0l/outdoor.png?dl=0" group-title="TRUE VISIONS", OUTDOOR
+#EXTVLCOPT:http-referrer=https://wacth.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/LC8/index.m3u8
+https://wacthstream.com/stream_live/673_OUTDOOR/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDIzIDExOjE3OjU4IEFNJmhhc2hfdmFsdWU9d2pxejVPK0JuOTVESzlvRGFRUFRpdz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzM2MDA3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/tXr6CPL/sweet.png" group-title="Good TV",Sweet
+#EXTINF:-1 tvg-id="TrueExploreSci.th" tvg-name="True Explore Sci" tvg-logo="https://cms.dmpcdn.com/livetv/2023/12/15/537ad5b0-9af8-11ee-a6ba-8b5bcfefee63_webp_original.webp" group-title="TRUE VISIONS", True Explore Sci
+#EXTVLCOPT:http-referrer=https://wacth.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/LC58/index.m3u8
+https://wacthstream.com/stream_live/561_TRUE_EXPLORE_SCI/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDIzIDExOjE4OjM5IEFNJmhhc2hfdmFsdWU9azJVVjYzT3RLdUxPRnRiZE5heVMwdz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzE1NTE0
 
-#EXTINF:-1 tvg-id="animalshow.th" tvg-name="Animal Kingdom" tvg-logo="https://i.ibb.co/T018CMK/animal.jpg" group-title="Good TV",Animal Kingdom
+#EXTINF:-1 tvg-id="TrueAsianMore.th" tvg-name="True Asian More" tvg-logo="https://cms.dmpcdn.com/livetv/2023/12/15/526965b0-9af8-11ee-ba6c-fd47adcb0961_webp_original.webp" group-title="TRUE VISIONS", True Asian More
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://wacth.tv
-https://cdn6.goprimetime.info/feed/202306140918/LC18/index.m3u8
+https://wacthstream.com/stream_live/239_AsianMore/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDIzIDExOjExOjQ3IEFNJmhhc2hfdmFsdWU9VXczcVlJUGUxRE54WUFoTWZJNnJDZz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzU1ODgx
 
-#EXTINF:-1 tvg-id="mysci.th" tvg-name="MYSCI" tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220113185546mysci.png" group-title="Good TV",MYSCI
+#EXTINF:-1 tvg-id="truemusic.th" tvg-name="TrueMusic" tvg-logo="https://cms.dmpcdn.com/livetv/2021/06/01/e2f61c80-c234-11eb-92e3-4bf272c5d086_original.png" group-title="TRUE VISIONS", TrueMusic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/LC37/index.m3u8
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://wacthstream.com/stream_live/357_TrueMusic/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDIzIDExOjEwOjAxIEFNJmhhc2hfdmFsdWU9cUZVa1FMYmJvSVUwUXNjTkxPUDEydz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzE0Mjgx
 
+#EXTINF:-1 tvg-id="DreamWorks.th" tvg-name="DreamWorks TV" tvg-logo="https://pbs.twimg.com/profile_images/1605982636005945345/xITpVt_q_400x400.png" group-title="TRUE VISIONS", DreamWorks TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://wacthstream.com/stream_live/448_DreamWorks/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDIzIDExOjE5OjQ2IEFNJmhhc2hfdmFsdWU9TGZtanVVS05oS1I5NUZrOTlyNG93Zz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzg0NDM1
 
-#EXTINF:-0 tvg-id="" tvg-name="NK Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSWjQ-5nl_D6X1OgtYzuA_pU9xVVCDV0ivSQ&amp;usqp=CAU" group-title="อื่นๆ", NK Movie
-http://sv1.afdc.live:9898/live/nktv.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Love Nature 4K" tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png" group-title="อื่นๆ",Love Nature 4K
-https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
-#EXTINF:-0 tvg-id="FashionTVAsia.fr" tvg-name="FASHION (4K)" tvg-logo="https://tv.xcoshop.com/wp-content/uploads/2022/10/Fashion-HD-919-523-new.png" group-title="อื่นๆ",FASHION (4K)
+#EXTINF:-0 tvg-id="" tvg-name="True SPARK PLAY" tvg-logo="https://cms.dmpcdn.com/livetv/2023/12/15/56059f40-9af8-11ee-b1e6-1fd23e73ab60_webp_original.webp" group-title="TRUE VISIONS", True SPARK PLAY
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+https://wacthstream.com/stream_live/445_SparkJump/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDIzIDExOjE5OjM0IEFNJmhhc2hfdmFsdWU9eVNsZjNhMkgvYlFLeEZCKzZvZUl0UT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzUyMzQz
+
+#EXTINF:-1 tvg-id="JustFun.th" tvg-name="JustFun" tvg-logo="https://i.ibb.co/dsNNJ3L/Justfun.png" group-title="Good TV",JustFun
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://wacthstream.com/stream_live/goodtv39_JustFun./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDIzIDExOjIwOjM0IEFNJmhhc2hfdmFsdWU9THVVekdRNjNJREpHdEJqZmhoN2xpdz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzc3ODg2
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220113190044thainess.png" group-title="Good TV",Thainess
+#EXTVLCOPT:http-referrer=https://wacth.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
-#EXTINF:-1 tvg-chno="43" tvg-id="Italian Fishing TV" tvg-name="Italian Fishing TV" tvg-logo="https://www.italianfishingtv.it/img/italian-fishing-tv-logo.png" group-title="อื่นๆ",Italian Fishing TV
+https://wacthstream.com/stream_live/goodtv40_ThaiNess./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDIzIDExOjQzOjI0IEFNJmhhc2hfdmFsdWU9SnNmTVk2TWV6eW9FeGNnNHROSUZPZz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzc5MTMw
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220113185953realmetro.png" group-title="Good TV",Real Metro2
+#EXTVLCOPT:http-referrer=https://wacth.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://itftv-italianfishingtv-1-it.samsung.wurl.tv/playlist.m3u8
+https://wacthstream.com/stream_live/goodtv41_RealMetro./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDIzIDExOjQzOjU3IEFNJmhhc2hfdmFsdWU9OHFRaWRGelhZRFhRSXVlUFFiS2ttZz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzE2Mjcy
+
+#EXTINF:-1 tvg-id="Heart.th" tvg-name="Heart" tvg-logo="https://i.ibb.co/qYHStJ0/heart.png" group-title="Good TV",Heart
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+https://wacthstream.com/stream_live/goodtv43_Heart./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDIzIDExOjQ0OjI3IEFNJmhhc2hfdmFsdWU9d3pkVUZWWHBvQzc0UVdXVjFBSEcyQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzM5OTUz
+
+#EXTINF:-1 tvg-id="Hero.th" tvg-name="Hero" tvg-logo="https://i.ibb.co/S3LPy31/Hero.png" group-title="Good TV",Hero
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://wacthstream.com/stream_live/goodtv44_Hero./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDIzIDExOjQ0OjQ2IEFNJmhhc2hfdmFsdWU9M2pvRWcxNkFWd1JPMXhOMGhEVTBaQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzE4ODE5
+
+#EXTINF:-1 tvg-id="animalshow.th" tvg-name="AnimalShow" tvg-logo="https://i.ibb.co/T018CMK/animal.jpg" group-title="Good TV",AnimalShow
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://wacthstream.com/stream_live/goodtv56_AnimalShow./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDIzIDExOjQ1OjExIEFNJmhhc2hfdmFsdWU9NVVkclphRFJuTWVjZ0FZVFZWS2ZBdz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzYwMDYw
+
+#EXTINF:-1 tvg-id="BXcite.th" tvg-name="BXcite" tvg-logo="https://i.ibb.co/0ZXqLCb/bxcite.png" group-title="Good TV",BXcite
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+https://wacthstream.com/stream_live/goodtv57_BXcite./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDIzIDExOjQ1OjMyIEFNJmhhc2hfdmFsdWU9bUNPYlF5ZnBqZVpNbjRNM0pjaW80dz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzIwMjQ3
+
+#EXTINF:-1 tvg-id="NewExplorer.th" tvg-name="NewExplorer.th" tvg-logo="https://i.ibb.co/NZB9D3z/newexplore.png" group-title="Good TV",NewExplorer
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+https://wacthstream.com/stream_live/goodtv59_New_Explorer./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDIzIDExOjQ1OjU5IEFNJmhhc2hfdmFsdWU9dHRld2g1OEplSjJwWVlsVnFlcmQwQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzY3NDM1
+
+#EXTINF:-1 tvg-id="NextKid.th" tvg-name="nextKids" tvg-logo="https://i.ibb.co/GC2XbHr/nextKids.jpg" group-title="Good TV",nextKids
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://wacthstream.com/stream_live/goodtv66_nextKid./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDIzIDExOjQ2OjE1IEFNJmhhc2hfdmFsdWU9SkRPVHBMMmkwZjdmQU9ORmNpS3kxQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzI3MDg0
