@@ -71,9 +71,9 @@ https://ctrl.laotv.la/live/TSport1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="True Premier Football 2" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24cc6ba0-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Premier League",True Premier Football 2
 https://ctrl.laotv.la/live/TSport2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="True Premier Football 3" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/251d71d0-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Premier League",True Premier Football 3
-https://ctrl.laotv.la/live/TSport3/index.m3u8
+https://switch.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-3/chunks.m3u8?nimblesessionid=744946&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNS8yMDI0IDg6NDc6MTQgQU0maGFzaF92YWx1ZT16WWl3ZzIvaVFUc2lLNzRmc2JPaCtRPT0mdmFsaWRtaW51dGVzPTYw
 #EXTINF:-1 tvg-id="" tvg-name="True Premier Football 4" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/257296b0-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="Premier League",True Premier Football 4
-https://ctrl.laotv.la/live/TSport4/index.m3u8
+https://switch.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-4/chunks.m3u8?nimblesessionid=744963&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNS8yMDI0IDg6NDc6MTQgQU0maGFzaF92YWx1ZT16WWl3ZzIvaVFUc2lLNzRmc2JPaCtRPT0mdmFsaWRtaW51dGVzPTYw
 #EXTINF:-1 tvg-id="" tvg-name="True Premier Football 5" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/25d3c980-7374-11ec-8066-ffb72c13e721_webp_320.png" group-title="Premier League",True Premier Football 5
 https://iptv-th.com:443/play/cgi3Vu4KHTlfKImhvoBfMDnjzF2DZmAiEaOrY9Jo6Ps/.m3u8
 
@@ -87,10 +87,10 @@ https://rr5---sn-w5nuxa-c33lk-14.googleuservideo.com/ballhd24liv_e1/beinsporthd3
 
 #EXTINF:-1 tvg-chno="45" tvg-id="SPOTV 1" tvg-name="SPOTV 1" tvg-logo="https://www.livestream88.com/wp-content/uploads/spotv.jpg" group-title="SPOTV",SPOTV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://www.livedoomovies.com:4432/02_foxsport_720p/chunklist.m3u8
+https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/true-spotv-1/chunks.m3u8?nimblesessionid=9055376&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNS8yMDI0IDg6NDc6MTQgQU0maGFzaF92YWx1ZT16WWl3ZzIvaVFUc2lLNzRmc2JPaCtRPT0mdmFsaWRtaW51dGVzPTYw
 #EXTINF:-1 tvg-chno="47" tvg-id="SPOTV 2" tvg-name="SPOTV 2" tvg-logo="https://www.livestream88.com/wp-content/uploads/spotv2.jpg" group-title="SPOTV",SPOTV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://www.livedoomovies.com:4432/02_FoxSport2_TH_720p/chunklist.m3u8
+https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/true-spotv-2/chunks.m3u8?nimblesessionid=9055422&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNS8yMDI0IDg6NDc6MTQgQU0maGFzaF92YWx1ZT16WWl3ZzIvaVFUc2lLNzRmc2JPaCtRPT0mdmFsaWRtaW51dGVzPTYw
 
 #EXTINF:-1 tvg-id="" tvg-name="True Sport 1" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/24/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.webp" group-title="True Sport",True Sport 1
 https://rr5---sn-w5nuxa-c33lk-14.googleuservideo.com/ballhd24liv_e1/2sporthd1_480p/chunks.m3u8
