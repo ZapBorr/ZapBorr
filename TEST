@@ -1,3 +1,4 @@
+#EXTINF:-1 tvg-id="" tvg-name="True Premier Football 3" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_1.png", group-title="AIS SPORTS", True Premier Football 3
 True Premier Football 3
 #EXTVLCOPT:http-referrer=https://ufabetcompany.com/
 https://live.vip-streaming.com/ufabetcompany-live/true-premier-hd-3/chunks.m3u8		
@@ -14,7 +15,7 @@ https://iptv-th.com:443/play/cgi3Vu4KHTlfKImhvoBfMDSSwjL9QkWeG_ziGqHFYSg/.m3u8
 #EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
 https://playidturl1.github.io/epgtv/ch/PremierHD3_chunklist.m3u8
 
-
+#EXTINF:-1 tvg-id="" tvg-name="True Premier Football 4" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_1.png", group-title="AIS SPORTS", True Premier Football 4
 True Premier Football 4
 #EXTVLCOPT:http-referrer=https://ufabetcompany.com/
 https://live.vip-streaming.com/ufabetcompany-live/true-premier-hd-4/chunks.m3u8		
