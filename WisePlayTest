@@ -1,1 +1,41 @@
+{
+ 
+"name" : "WisePlayTest",
+ 
+"author" : "โดย: นุ",
+ 
+"image" : "https://www.i-pic.info/i/XUfV565737.jpg",
+ 
+"url" : "https://raw.githubusercontent.com/ZapBorr/ZapBorr/main/WisePlayTest",
+ 
+"stations" :
+ 
+[
+
+{
+
+"name" : "Curse Code EP 6",
+
+"image" : "https://www.123-hd.com/wp-content/uploads/2023/12/Curse-Code-2023-%E0%B9%81%E0%B8%8A%E0%B9%88%E0%B8%87%E0%B8%8A%E0%B8%B1%E0%B8%81-%E0%B8%AB%E0%B8%B1%E0%B8%81%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B9%E0%B8%81-300x450.jpg",
+
+"url" : "https://xxx.77player.xyz/m3u8/dbb0fcffe44ede94fb444544/dbb0fcffe44ede94fb444544800.m3u8",
+
+"referer" : "https://www.123-hd.com/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+
+
+
+
+
+]
+
+}
 
