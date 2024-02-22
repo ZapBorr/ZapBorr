@@ -65,6 +65,24 @@ https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL006/HLS/
 https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL007/HLS/TL007.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BALLTHAI 8" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_8.png" group-title="BALL THAI",BALLTHAI 8
 https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL008/HLS/TL008.m3u8
+#EXTINF:-1 tvg-chno="1" tvg-id="SIAMSPORT 1" tvg-name="SIAMSPORT 1" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT1.png",SIAMSPORT 1
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/JL001/HLS/JL001.m3u8
+#EXTINF:-1 tvg-chno="1" tvg-id="SIAMSPORT 2" tvg-name="SIAMSPORT 2" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT2.png",SIAMSPORT 2
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/JL002/HLS/JL002.m3u8
+#EXTINF:-1 tvg-chno="1" tvg-id="SIAMSPORT 3" tvg-name="SIAMSPORT 3" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT3.png",SIAMSPORT 3
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/JL003/HLS/JL003.m3u8
+#EXTINF:-1 tvg-chno="1" tvg-id="SIAMSPORT 4" tvg-name="SIAMSPORT 4" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT4.png",SIAMSPORT 4
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/JL004/HLS/JL004.m3u8
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="True Premier Football 1" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Premier League",True Premier Football 1
 https://ctrl.laotv.la/live/TSport1/index.m3u8
