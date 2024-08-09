@@ -1,19 +1,11 @@
-#EXTINF:-1 tvg-id="" tvg-name="BALLTHAI 1" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_1.png" group-title="BALL THAI",BALLTHAI 1
-https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL001/HLS/TL001.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BALLTHAI 2" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_2.png" group-title="BALL THAI",BALLTHAI 2
-https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL002/HLS/TL002.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BALLTHAI 3" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_3.png" group-title="BALL THAI",BALLTHAI 3
-https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL003/HLS/TL003.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BALLTHAI 4" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_4.png" group-title="BALL THAI",BALLTHAI 4
-https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL004/HLS/TL004.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BALLTHAI 5" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_5.png" group-title="BALL THAI",BALLTHAI 5
-https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL005/HLS/TL005.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BALLTHAI 6" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_6.png" group-title="BALL THAI",BALLTHAI 6
-https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL006/HLS/TL006.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BALLTHAI 7" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_7.png" group-title="BALL THAI",BALLTHAI 7
-https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL007/HLS/TL007.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BALLTHAI 8" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_8.png" group-title="BALL THAI",BALLTHAI 8
-https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL008/HLS/TL008.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BALLTHAI 1" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/89262f60-30e1-11ee-b445-3703761d6f4d_webp_original.webp" group-title="BALL THAI",BALLTHAI 1
+https://cdn1.googlecdnforstreaming.live/live/trueballthai1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BALLTHAI 2" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/8a0c49a0-30e1-11ee-b220-4544ede97b74_webp_original.webp" group-title="BALL THAI",BALLTHAI 2
+https://cdn1.googlecdnforstreaming.live/live/trueballthai2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BALLTHAI 3" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/8a3b21d0-30e1-11ee-a53e-b3f87dc8ba1e_webp_original.webp" group-title="BALL THAI",BALLTHAI 3
+https://cdn1.googlecdnforstreaming.live/live/trueballthai3/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BALLTHAI 4" tvg-logo="https://cms.dmpcdn.com/livetv/2024/02/01/e3adbba0-c0ed-11ee-9f09-d517c2f32137_webp_original.webp" group-title="BALL THAI",BALLTHAI 4
+https://cdn1.googlecdnforstreaming.live/live/trueballthai4/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="True Premier Football 1" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Premier League",True Premier Football 1
 https://streaming.livescorethai.net/iptv/epl-1.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="True Premier Football 2" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24cc6ba0-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Premier League",True Premier Football 2
