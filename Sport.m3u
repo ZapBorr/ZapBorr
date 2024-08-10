@@ -1,44 +1,73 @@
 #EXTINF:-1 tvg-id="" tvg-name="BALLTHAI 1" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/89262f60-30e1-11ee-b445-3703761d6f4d_webp_original.webp" group-title="BALL THAI",BALLTHAI 1
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn1.googlecdnforstreaming.live/live/trueballthai1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="BALLTHAI 2" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/8a0c49a0-30e1-11ee-b220-4544ede97b74_webp_original.webp" group-title="BALL THAI",BALLTHAI 2
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn1.googlecdnforstreaming.live/live/trueballthai2/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="BALLTHAI 3" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/8a3b21d0-30e1-11ee-a53e-b3f87dc8ba1e_webp_original.webp" group-title="BALL THAI",BALLTHAI 3
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn1.googlecdnforstreaming.live/live/trueballthai3/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="BALLTHAI 4" tvg-logo="https://cms.dmpcdn.com/livetv/2024/02/01/e3adbba0-c0ed-11ee-9f09-d517c2f32137_webp_original.webp" group-title="BALL THAI",BALLTHAI 4
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn1.googlecdnforstreaming.live/live/trueballthai4/playlist.m3u8
+
+
+#EXTINF:-1 tvg-chno="1" tvg-id="SIAMSPORT 1" tvg-name="SIAMSPORT 1" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT1.png",SIAMSPORT 1
+#EXTVLCOPT:http-referrer=https://dooballx.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn1.googlecdn.live/dooballx/siamsport1/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="1" tvg-id="SIAMSPORT 2" tvg-name="SIAMSPORT 2" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT2.png",SIAMSPORT 2
+#EXTVLCOPT:http-referrer=https://dooballx.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn1.googlecdn.live/dooballx/siamsport2/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="1" tvg-id="SIAMSPORT 3" tvg-name="SIAMSPORT 3" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT3.png",SIAMSPORT 3
+#EXTVLCOPT:http-referrer=https://dooballx.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn1.googlecdn.live/dooballx/siamsport3/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="1" tvg-id="SIAMSPORT 4" tvg-name="SIAMSPORT 4" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT4.png",SIAMSPORT 4
+#EXTVLCOPT:http-referrer=https://dooballx.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn1.googlecdn.live/dooballx/siamsport4/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="True Premier Football 1" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Premier League",True Premier Football 1
-https://streaming.livescorethai.net/iptv/epl-1.stream/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://livescorethai.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/bsb-epl1.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="True Premier Football 2" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24cc6ba0-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Premier League",True Premier Football 2
-https://streaming.livescorethai.net/iptv/epl-2.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="True Premier Football 3" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/251d71d0-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Premier League",True Premier Football 3
-https://streaming.livescorethai.net/iptv/epl-3.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="True Premier Football 4" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/257296b0-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="Premier League",True Premier Football 4
-https://streaming.livescorethai.net/iptv/epl-4.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="True Premier Football 5" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/25d3c980-7374-11ec-8066-ffb72c13e721_webp_320.png" group-title="Premier League",True Premier Football 5
-https://streaming.livescorethai.net/iptv/epl-5.stream/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://livescorethai.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/bsb-epl2.stream/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" group-title="BEIN SPORTS",BEIN SPORTS 1
-https://youdooball.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" group-title="BEIN SPORTS",BEIN SPORTS 2
-https://streaming.livescorethai.net/iptv/epl-bein2.stream/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein2/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp" group-title="BEIN SPORTS",BEIN SPORTS 3
-https://youdooball.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPOTV 1" tvg-logo="https://www.livestream88.com/wp-content/uploads/spotv.jpg" group-title="SPOTV",SPOTV 1
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPOTV 2" tvg-logo="https://www.livestream88.com/wp-content/uploads/spotv2.jpg" group-title="SPOTV",SPOTV 2
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein3/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="SPOTV 2" tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/1b2c69c0-20f3-11ec-92df-47614181eee6_webp_320.jpg" group-title="SPOTV",SPOTV 2
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="True Sport 1" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/24/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.webp" group-title="True Sport",True Sport 1
-https://rr5---sn-w5nuxa-c33lk-14.googleuservideo.com/ballhd24liv_e1/2sporthd1_480p/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="True Sport 2" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/2960b3f0-e593-11ed-b26c-6b89d082d464_webp_original.webp" group-title="True Sport",True Sport 2
-https://rr5---sn-w5nuxa-c33lk-14.googleuservideo.com/ballhd24liv_e1/2sporthd2_480p/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="True Sport 3" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.webp" group-title="True Sport",True Sport 3
-https://rr5---sn-w5nuxa-c33lk-14.googleuservideo.com/ballhd24liv_e1/2sporthd3_480p/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="True Sport 4" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f4888970-e595-11ed-8507-4fc0b025fedb_webp_original.webp" group-title="True Sport",True Sport 4
-https://streaming.livescorethai.net/iptv/hd-tsport4.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="True Sport 5" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f493fb20-e595-11ed-b26c-6b89d082d464_webp_original.webp" group-title="True Sport",True Sport 5
-https://rr5---sn-w5nuxa-c33lk-14.googleuservideo.com/ballhd24liv_e2/2sport5_480p/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="True Sport 7" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f63723d0-e595-11ed-abcb-c792e696f885_webp_original.webp" group-title="True Sport",True Sport 7
-https://rr5---sn-w5nuxa-c33lk-14.googleuservideo.com/ballhd24liv_e2/2sport7_480p/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="True Tennis" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f65ea900-e595-11ed-86b8-bb40638e3c49_webp_original.webp" group-title="True Sport",True Tennis
-https://rr5---sn-w5nuxa-c33lk-14.googleuservideo.com/ballhd24liv_e1/truetennis_480p/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="True NFL&NBA TV" tvg-logo="https://cms.dmpcdn.com/livetv/2022/12/22/d9313340-81d9-11ed-a7f9-412bbba270e9_webp_original.webp" group-title="True Sport",True NFL&NBA TV
-https://rr5---sn-w5nuxa-c33lk-14.googleuservideo.com/ballhd24liv_e1/2nba_480p/chunks.m3u8
