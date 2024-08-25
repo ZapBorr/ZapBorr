@@ -1,12 +1,12 @@
 {
  
-"name" : "สปอร์ตทีวี GH",
+"name" : "สปอร์ตทีวี 2",
  
 "author" : "โดย: นุ",
  
 "image" : "https://www.i-pic.info/i/XUfV565737.jpg",
  
-"url" : "https://raw.githubusercontent.com/ZapBorr/ZapBorr/main/WisePlay(IPTV)",
+"url" : "",
  
 "stations" :
  
@@ -16,11 +16,11 @@
 
 "name" : "BALLTHAI 1",
 
-"image" : "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_1.png",
+"image" : "https://cms.dmpcdn.com/livetv/2023/08/02/89262f60-30e1-11ee-b445-3703761d6f4d_webp_original.webp",
 
-"url" : "https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL001/HLS/TL001.m3u8",
+"url" : "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/aisplay1/playlist.m3u8",
 
-"referer" : "https://ais-vidnt.com",
+"referer" : "https://dooball2you.com/",
 
 "userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 
@@ -34,11 +34,11 @@
 
 "name" : "BALLTHAI 2",
 
-"image" : "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_2.png",
+"image" : "https://cms.dmpcdn.com/livetv/2023/08/02/8a0c49a0-30e1-11ee-b220-4544ede97b74_webp_original.webp",
 
-"url" : "https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL002/HLS/TL002.m3u8",
+"url" : "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/aisplay2/playlist.m3u8",
 
-"referer" : "https://ais-vidnt.com",
+"referer" : "https://dooball2you.com/",
 
 "userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 
@@ -52,11 +52,11 @@
 
 "name" : "BALLTHAI 3",
 
-"image" : "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_3.png",
+"image" : "https://cms.dmpcdn.com/livetv/2023/08/02/8a3b21d0-30e1-11ee-a53e-b3f87dc8ba1e_webp_original.webp",
 
-"url" : "https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL003/HLS/TL003.m3u8",
+"url" : "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/aisplay3/playlist.m3u8",
 
-"referer" : "https://ais-vidnt.com",
+"referer" : "https://dooball2you.com/",
 
 "userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 
@@ -70,11 +70,11 @@
 
 "name" : "BALLTHAI 4",
 
-"image" : "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_4.png",
+"image" : "https://cms.dmpcdn.com/livetv/2024/02/01/e3adbba0-c0ed-11ee-9f09-d517c2f32137_webp_original.webp",
 
-"url" : "https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL004/HLS/TL004.m3u8",
+"url" : "https://cdn1.googlecdnforstreaming.live/live/trueballthai4/playlist.m3u8",
 
-"referer" : "https://ais-vidnt.com",
+"referer" : "https://warpdooball.net/",
 
 "userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 
@@ -88,11 +88,11 @@
 
 "name" : "BALLTHAI 5",
 
-"image" : "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_5.png",
+"image" : "https://cms.dmpcdn.com/livetv/2024/08/14/df6a7110-5a16-11ef-ae6e-398d852551da_webp_original.webp",
 
-"url" : "https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL005/HLS/TL005.m3u8",
+"url" : "https://cdn1.googlecdnforstreaming.live/live/trueballthai5/playlist.m3u8",
 
-"referer" : "https://ais-vidnt.com",
+"referer" : "https://warpdooball.net/",
 
 "userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 
@@ -106,11 +106,11 @@
 
 "name" : "BALLTHAI 6",
 
-"image" : "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_6.png",
+"image" : "https://cms.dmpcdn.com/livetv/2024/08/14/e0a6c1a0-5a16-11ef-8743-87a41cdc0568_webp_original.webp",
 
-"url" : "https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL006/HLS/TL006.m3u8",
+"url" : "https://cdn1.googlecdnforstreaming.live/live/trueballthai6/playlist.m3u8",
 
-"referer" : "https://ais-vidnt.com",
+"referer" : "https://warpdooball.net/",
 
 "userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 
@@ -124,11 +124,11 @@
 
 "name" : "BALLTHAI 7",
 
-"image" : "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_7.png",
+"image" : "https://cms.dmpcdn.com/livetv/2024/08/14/e1334a30-5a16-11ef-9c43-a93aeb33b0e5_webp_original.webp",
 
-"url" : "https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL007/HLS/TL007.m3u8",
+"url" : "https://cdn1.googlecdnforstreaming.live/live/trueballthai7/playlist.m3u8",
 
-"referer" : "https://ais-vidnt.com",
+"referer" : "https://warpdooball.net/",
 
 "userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 
@@ -142,11 +142,65 @@
 
 "name" : "BALLTHAI 8",
 
-"image" : "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_8.png",
+"image" : "https://cms.dmpcdn.com/livetv/2024/08/14/e1c15960-5a16-11ef-9de9-af1b25c2ed4f_webp_original.webp",
 
-"url" : "https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL008/HLS/TL008.m3u8",
+"url" : "https://cdn1.googlecdnforstreaming.live/live/trueballthai8/playlist.m3u8",
 
-"referer" : "https://ais-vidnt.com",
+"referer" : "https://warpdooball.net/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "BALLTHAI 9",
+
+"image" : "https://cms.dmpcdn.com/livetv/2024/08/14/e2346680-5a16-11ef-8c60-b76aa0302695_webp_original.webp",
+
+"url" : "https://cdn1.googlecdnforstreaming.live/live/trueballthai9/playlist.m3u8",
+
+"referer" : "https://warpdooball.net/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "BALLTHAI 10",
+
+"image" : "https://cms.dmpcdn.com/livetv/2024/08/14/e249c340-5a16-11ef-a30f-0d36085b5b8b_webp_original.webp",
+
+"url" : "https://cdn1.googlecdnforstreaming.live/live/trueballthai10/playlist.m3u8",
+
+"referer" : "https://warpdooball.net/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "FPSThailand (Live only)",
+
+"image" : "https://scontent.fbkk10-1.fna.fbcdn.net/v/t39.30808-6/357114132_663626395803876_9160901486783268101_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=y2Fic9FeWLcQ7kNvgH4iWN1&_nc_ht=scontent.fbkk10-1.fna&oh=00_AYDFAc5vdBXlon-lZ-refMBOlitIjJ6CREA91hsO3HBXcA&oe=66CF19F5",
+
+"url" : "https://global-media.sooplive.com/live/fpsthailand/master.m3u8",
+
+"referer" : "https://www.sooplive.com/",
 
 "userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 
@@ -162,9 +216,9 @@
 
 "image" : "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT1.png",
 
-"url" : "https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/JL001/HLS/JL001.m3u8",
+"url" : "https://cdn1.googlecdn.live/dooballx/siamsport1/playlist.m3u8",
 
-"referer" : "https://ais-vidnt.com",
+"referer" : "https://dooballx.com/",
 
 "userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 
@@ -180,9 +234,9 @@
 
 "image" : "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT2.png",
 
-"url" : "https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/JL002/HLS/JL002.m3u8",
+"url" : "https://cdn1.googlecdn.live/dooballx/siamsport2/playlist.m3u8",
 
-"referer" : "https://ais-vidnt.com",
+"referer" : "https://dooballx.com/",
 
 "userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 
@@ -198,9 +252,9 @@
 
 "image" : "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT3.png",
 
-"url" : "https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/JL003/HLS/JL003.m3u8",
+"url" : "https://cdn1.googlecdn.live/dooballx/siamsport3/playlist.m3u8",
 
-"referer" : "https://ais-vidnt.com",
+"referer" : "https://dooballx.com/",
 
 "userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 
@@ -216,45 +270,9 @@
 
 "image" : "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT4.png",
 
-"url" : "https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/JL004/HLS/JL004.m3u8",
+"url" : "https://cdn1.googlecdn.live/dooballx/siamsport4/playlist.m3u8",
 
-"referer" : "https://ais-vidnt.com",
-
-"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-
-"desktop" : "true",
-
-"playInNatPlayer" : "true"
-
-},
-
-{
-
-"name" : "PPTV HD",
-
-"image" : "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png",
-
-"url" : "https://49-231-34-109-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0022/HLS/B0022.m3u8",
-
-"referer" : "https://ais-vidnt.com",
-
-"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-
-"desktop" : "true",
-
-"playInNatPlayer" : "true"
-
-},
-
-{
-
-"name" : "PPTV HD (สำรอง)",
-
-"image" : "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png",
-
-"url" : "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chpptvhd3/index.m3u8",
-
-"referer" : "https://ais-vidnt.com",
+"referer" : "https://dooballx.com/",
 
 "userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 
@@ -268,47 +286,11 @@
 
 "name" : "EPL 1",
 
-"image" : "https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png",
+"image" : "https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.webp",
 
-"url" : "https://ctrl.laotv.la/live/TSport1/index.m3u8",
+"url" : "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf1/playlist.m3u8",
 
-"referer" : "https://ufabetcompany.com/",
-
-"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-
-"desktop" : "true",
-
-"playInNatPlayer" : "true"
-
-},
-
-{
-
-"name" : "EPL 1 (สำรอง 1)",
-
-"image" : "https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png",
-
-"url" : "https://streaming.livescorethai.net/iptv/epl-1.stream/chunks.m3u8",
-
-"referer" : "https://freetvdd.com/",
-
-"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-
-"desktop" : "true",
-
-"playInNatPlayer" : "true"
-
-},
-
-{
-
-"name" : "EPL 1 (สำรอง 2)",
-
-"image" : "https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png",
-
-"url" : "https://iptv-th.com/play/cgi3Vu4KHTlfKImhvoBfMGA2ArIQwX6e4KbXKX96eVo/.m3u8",
-
-"referer" : "https://www.youdooball.com/",
+"referer" : "https://dooball2you.com/",
 
 "userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 
@@ -322,47 +304,11 @@
 
 "name" : "EPL 2",
 
-"image" : "https://cms.dmpcdn.com/livetv/2022/01/12/24cc6ba0-7374-11ec-91d2-797a50c5a656_webp_320.png",
+"image" : "https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.webp",
 
-"url" : "https://ctrl.laotv.la/live/TSport2/index.m3u8",
+"url" : "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf2/playlist.m3u8",
 
-"referer" : "https://ufabetcompany.com/",
-
-"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-
-"desktop" : "true",
-
-"playInNatPlayer" : "true"
-
-},
-
-{
-
-"name" : "EPL 2 (สำรอง 1)",
-
-"image" : "https://cms.dmpcdn.com/livetv/2022/01/12/24cc6ba0-7374-11ec-91d2-797a50c5a656_webp_320.png",
-
-"url" : "https://streaming.livescorethai.net/iptv/epl-2.stream/chunks.m3u8",
-
-"referer" : "https://freetvdd.com/",
-
-"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-
-"desktop" : "true",
-
-"playInNatPlayer" : "true"
-
-},
-
-{
-
-"name" : "EPL 2 (สำรอง 2)",
-
-"image" : "https://cms.dmpcdn.com/livetv/2022/01/12/24cc6ba0-7374-11ec-91d2-797a50c5a656_webp_320.png",
-
-"url" : "https://youdooball.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8",
-
-"referer" : "https://www.youdooball.com/",
+"referer" : "https://dooball2you.com/",
 
 "userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 
@@ -376,47 +322,11 @@
 
 "name" : "EPL 3",
 
-"image" : "https://cms.dmpcdn.com/livetv/2022/01/12/251d71d0-7374-11ec-91d2-797a50c5a656_webp_320.png",
+"image" : "https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.webp",
 
-"url" : "https://streaming.livescorethai.net/iptv/epl-3.stream/playlist.m3u8",
+"url" : "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf3/playlist.m3u8",
 
-"referer" : "https://freetvdd.com",
-
-"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-
-"desktop" : "true",
-
-"playInNatPlayer" : "true"
-
-},
-
-{
-
-"name" : "EPL 3 (สำรอง 1)",
-
-"image" : "https://cms.dmpcdn.com/livetv/2022/01/12/251d71d0-7374-11ec-91d2-797a50c5a656_webp_320.png",
-
-"url" : "https://iptv-th.com:443/play/cgi3Vu4KHTlfKImhvoBfMDSSwjL9QkWeG_ziGqHFYSg/.m3u8",
-
-"referer" : "https://freetvdd.com/",
-
-"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-
-"desktop" : "true",
-
-"playInNatPlayer" : "true"
-
-},
-
-{
-
-"name" : "EPL 3 (สำรอง 2)",
-
-"image" : "https://cms.dmpcdn.com/livetv/2022/01/12/251d71d0-7374-11ec-91d2-797a50c5a656_webp_320.png",
-
-"url" : "https://iptv-th.com:443/play/cgi3Vu4KHTlfKImhvoBfMDSSwjL9QkWeG_ziGqHFYSg/.m3u8",
-
-"referer" : "https://iptv-th.com/",
+"referer" : "https://dooball2you.com/",
 
 "userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 
@@ -430,47 +340,11 @@
 
 "name" : "EPL 4",
 
-"image" : "https://cms.dmpcdn.com/livetv/2022/01/12/257296b0-7374-11ec-b576-afbb0a1303ef_webp_320.png",
+"image" : "https://cms.dmpcdn.com/livetv/2023/05/03/bb0beb90-e966-11ed-993c-b59183950f79_webp_original.webp",
 
-"url" : "https://streaming.livescorethai.net/iptv/epl-4.stream/playlist.m3u8",
+"url" : "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf4/playlist.m3u8",
 
-"referer" : "https://freetvdd.com",
-
-"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-
-"desktop" : "true",
-
-"playInNatPlayer" : "true"
-
-},
-
-{
-
-"name" : "EPL 4 (สำรอง 1)",
-
-"image" : "https://cms.dmpcdn.com/livetv/2022/01/12/257296b0-7374-11ec-b576-afbb0a1303ef_webp_320.png",
-
-"url" : "https://iptv-th.com:443/play/cgi3Vu4KHTlfKImhvoBfMOzHg9Y6IRIB6DGajUQFybk/.m3u8",
-
-"referer" : "https://freetvdd.com/",
-
-"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-
-"desktop" : "true",
-
-"playInNatPlayer" : "true"
-
-},
-
-{
-
-"name" : "EPL 4 (สำรอง 2)",
-
-"image" : "https://cms.dmpcdn.com/livetv/2022/01/12/257296b0-7374-11ec-b576-afbb0a1303ef_webp_320.png",
-
-"url" : "https://youdooball.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8",
-
-"referer" : "https://www.youdooball.com/",
+"referer" : "https://dooball2you.com/",
 
 "userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 
@@ -484,47 +358,11 @@
 
 "name" : "EPL 5",
 
-"image" : "https://cms.dmpcdn.com/livetv/2022/01/12/25d3c980-7374-11ec-8066-ffb72c13e721_webp_320.png",
+"image" : "https://cms.dmpcdn.com/livetv/2023/05/03/bbea1690-e966-11ed-935b-df134f58d288_webp_original.webp",
 
-"url" : "https://iptv-th.com:443/play/cgi3Vu4KHTlfKImhvoBfMDnjzF2DZmAiEaOrY9Jo6Ps/.m3u8",
+"url" : "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf5/playlist.m3u8",
 
-"referer" : "https://freetvdd.com/",
-
-"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-
-"desktop" : "true",
-
-"playInNatPlayer" : "true"
-
-},
-
-{
-
-"name" : "EPL 5 (สำรอง 1)",
-
-"image" : "https://cms.dmpcdn.com/livetv/2022/01/12/25d3c980-7374-11ec-8066-ffb72c13e721_webp_320.png",
-
-"url" : "https://streaming.livescorethai.net/iptv/epl-5.stream/chunks.m3u8",
-
-"referer" : "https://freetvdd.com/",
-
-"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-
-"desktop" : "true",
-
-"playInNatPlayer" : "true"
-
-},
-
-{
-
-"name" : "EPL 5 (สำรอง 2)",
-
-"image" : "https://cms.dmpcdn.com/livetv/2022/01/12/25d3c980-7374-11ec-8066-ffb72c13e721_webp_320.png",
-
-"url" : "https://youdooball.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8",
-
-"referer" : "https://www.youdooball.com/",
+"referer" : "https://dooball2you.com/",
 
 "userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 
@@ -540,27 +378,9 @@
 
 "image" : "https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
 
-"url" : "https://rr5---sn-w5nuxa-c33lk-14.googleuservideo.com/ballhd24liv_e1/beinsport1_480p/chunks.m3u8",
+"url" : "https://cdn1.googlecdn.live/dooballx/bein1/playlist.m3u8",
 
-"referer" : "https://ufabetcompany.com/",
-
-"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-
-"desktop" : "true",
-
-"playInNatPlayer" : "true"
-
-},
-
-{
-
-"name" : "BEIN SPORTS 1 (สำรอง1)",
-
-"image" : "https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
-
-"url" : "https://youdooball.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8",
-
-"referer" : "https://www.youdooball.com/",
+"referer" : "https://dooballx_.com/",
 
 "userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 
@@ -576,27 +396,9 @@
 
 "image" : "https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
 
-"url" : "https://streaming.livescorethai.net/iptv/epl-bein2.stream/chunks.m3u8",
+"url" : "https://cdn1.googlecdn.live/dooballx/bein2/playlist.m3u8",
 
-"referer" : "https://freetvdd.com",
-
-"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-
-"desktop" : "true",
-
-"playInNatPlayer" : "true"
-
-},
-
-{
-
-"name" : "BEIN SPORTS 2 (สำรอง)",
-
-"image" : "https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
-
-"url" : "https://ctrl.laotv.la/live/Bsport2/index.m3u8",
-
-"referer" : "https://freetvdd.com",
+"referer" : https://dooballx_.com/",
 
 "userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 
@@ -612,27 +414,9 @@
 
 "image" : "https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp",
 
-"url" : "https://rr5---sn-w5nuxa-c33lk-14.googleuservideo.com/ballhd24liv_e1/beinsporthd3_480p/chunks.m3u8",
+"url" : "https://cdn1.googlecdn.live/dooballx/bein3/playlist.m3u8",
 
-"referer" : "https://ufabetcompany.com/",
-
-"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-
-"desktop" : "true",
-
-"playInNatPlayer" : "true"
-
-},
-
-{
-
-"name" : "BEIN SPORTS 3 (สำรอง1)",
-
-"image" : "https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp",
-
-"url" : "https://youdooball.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8",
-
-"referer" : "https://www.youdooball.com/",
+"referer" : "https://dooballx_.com/",
 
 "userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 
@@ -644,9 +428,81 @@
 
 {
 
-"name" : "SPOTV 1",
+"name" : "BEIN SPORTS 4",
 
-"image" : "https://www.livestream88.com/wp-content/uploads/spotv.jpg",
+"image" : "https://cms.dmpcdn.com/livetv/2023/08/02/2f7a5b20-30f6-11ee-8c65-b3a6cba5ed9d_webp_original.webp",
+
+"url" : "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein4/playlist.m3u8",
+
+"referer" : "https://dooball2you.com/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "BEIN SPORTS 5",
+
+"image" : "https://cms.dmpcdn.com/livetv/2023/08/02/300adb50-30f6-11ee-b3e7-85edd640cc04_webp_original.webp",
+
+"url" : "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein5/playlist.m3u8",
+
+"referer" : "https://dooball2you.com/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "BEIN SPORTS 6",
+
+"image" : "https://cms.dmpcdn.com/livetv/2023/08/02/2f7ad050-30f6-11ee-b57d-a9829f092f3e_webp_original.webp",
+
+"url" : "https://cdn1.googlecdn.live/dooballx/bein6/playlist.m3u8",
+
+"referer" : "https://dooballx_.com/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "BEIN SPORTS 7",
+
+"image" : "https://cms.dmpcdn.com/livetv/2024/08/14/9129ec90-5a1d-11ef-b567-e1cdaa5397dd_webp_original.webp",
+
+"url" : "https://cdn1.googlecdn.live/dooballx/bein7/playlist.m3u8",
+
+"referer" : "https://dooballx.com/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "SPOTV",
+
+"image" : "https://dooball2you.com/wp-content/uploads/2023/09/sportv.jpg",
 
 "url" : "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv1/playlist.m3u8",
 
@@ -662,27 +518,9 @@
 
 {
 
-"name" : "SPOTV 1 (สำรอง)",
-
-"image" : "https://www.livestream88.com/wp-content/uploads/spotv.jpg",
-
-"url" : "https://www.livedoomovies.com:4432/02_foxsport_720p/chunklist.m3u8",
-
-"referer" : "https://www.youdooball.com/",
-
-"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-
-"desktop" : "true",
-
-"playInNatPlayer" : "true"
-
-},
-
-{
-
 "name" : "SPOTV 2",
 
-"image" : "https://www.livestream88.com/wp-content/uploads/spotv2.jpg",
+"image" : "https://cms.dmpcdn.com/livetv/2021/09/29/1b2c69c0-20f3-11ec-92df-47614181eee6_webp_320.jpg",
 
 "url" : "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv2/playlist.m3u8",
 
@@ -698,13 +536,13 @@
 
 {
 
-"name" : "SPOTV 2 (สำรอง)",
+"name" : "PPTV HD",
 
-"image" : "https://www.livestream88.com/wp-content/uploads/spotv2.jpg",
+"image" : "https://cms.dmpcdn.com/livetv/2024/06/26/48fb8a90-338b-11ef-a958-ed31043c43a3_webp_original.webp",
 
-"url" : "https://youdooball.livedoomovies.com:4432/02_FoxSport2_TH_720p/chunklist.m3u8",
+"url" : "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/pptv/playlist.m3u8",
 
-"referer" : "https://www.youdooball.com/",
+"referer" : "https://dooball2you.com/",
 
 "userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 
@@ -716,9 +554,9 @@
 
 {
 
-"name" : "True Sports 1",
+"name" : "TrueSport 1",
 
-"image" : "https://cms.dmpcdn.com/livetv/2023/04/24/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.webp",
+"image" : "https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",
 
 "url" : "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd1/playlist.m3u8",
 
@@ -734,45 +572,9 @@
 
 {
 
-"name" : "True Sports 1 (สำรอง)",
+"name" : "TrueSport 2",
 
-"image" : "https://cms.dmpcdn.com/livetv/2023/04/24/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.webp",
-
-"url" : "https://www.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8",
-
-"referer" : "https://www.youdooball.com/",
-
-"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-
-"desktop" : "true",
-
-"playInNatPlayer" : "true"
-
-},
-
-{
-
-"name" : "True Sports 2",
-
-"image" : "https://cms.dmpcdn.com/livetv/2023/04/28/2960b3f0-e593-11ed-b26c-6b89d082d464_webp_original.webp",
-
-"url" : "https://ctrl.laotv.la/live/TrueSport2/index.m3u8",
-
-"referer" : "https://www.ballhd24.live/",
-
-"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-
-"desktop" : "true",
-
-"playInNatPlayer" : "true"
-
-},
-
-{
-
-"name" : "True Sports 2 (สำรอง)",
-
-"image" : "https://cms.dmpcdn.com/livetv/2023/04/28/2960b3f0-e593-11ed-b26c-6b89d082d464_webp_original.webp",
+"image" : "https://cms.dmpcdn.com/livetv/2024/01/16/ce5c21d0-b44d-11ee-aa7d-afe908f95743_webp_original.webp",
 
 "url" : "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd2/playlist.m3u8",
 
@@ -788,9 +590,9 @@
 
 {
 
-"name" : "True Sports 3",
+"name" : "TrueSport 3",
 
-"image" : "https://cms.dmpcdn.com/livetv/2023/04/28/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.webp",
+"image" : "https://cms.dmpcdn.com/livetv/2024/01/16/ce9707f0-b44d-11ee-8e80-c3f417d0d932_webp_original.webp",
 
 "url" : "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd3/playlist.m3u8",
 
@@ -806,45 +608,9 @@
 
 {
 
-"name" : "True Sports 3 (สำรอง)",
+"name" : "TrueSport 5",
 
-"image" : "https://cms.dmpcdn.com/livetv/2023/04/28/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.webp",
-
-"url" : "https://youdooball.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8",
-
-"referer" : "https://www.youdooball.com/",
-
-"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-
-"desktop" : "true",
-
-"playInNatPlayer" : "true"
-
-},
-
-{
-
-"name" : "True Sports 4",
-
-"image" : "https://cms.dmpcdn.com/livetv/2023/04/28/f4888970-e595-11ed-8507-4fc0b025fedb_webp_original.webp",
-
-"url" : "https://streaming.livescorethai.net/iptv/hd-tsport4.stream/chunks.m3u8",
-
-"referer" : "https://freetvdd.com/",
-
-"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-
-"desktop" : "true",
-
-"playInNatPlayer" : "true"
-
-},
-
-{
-
-"name" : "True Sports 5",
-
-"image" : "https://cms.dmpcdn.com/livetv/2023/04/28/f493fb20-e595-11ed-b26c-6b89d082d464_webp_original.webp",
+"image" : "https://cms.dmpcdn.com/livetv/2024/01/16/cf4a2b50-b44d-11ee-aa7d-afe908f95743_webp_original.webp",
 
 "url" : "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesportsd5/playlist.m3u8",
 
@@ -860,27 +626,9 @@
 
 {
 
-"name" : "True Sports 5 (สำรอง)",
+"name" : "TrueSport 7",
 
-"image" : "https://cms.dmpcdn.com/livetv/2023/04/28/f493fb20-e595-11ed-b26c-6b89d082d464_webp_original.webp",
-
-"url" : "https://youdooball.livedoomovies.com:4432/02_sport5_480p/chunklist.m3u8",
-
-"referer" : "https://www.youdooball.com/",
-
-"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-
-"desktop" : "true",
-
-"playInNatPlayer" : "true"
-
-},
-
-{
-
-"name" : "True Sports 7",
-
-"image" : "https://cms.dmpcdn.com/livetv/2023/04/28/f63723d0-e595-11ed-abcb-c792e696f885_webp_original.webp",
+"image" : "https://cms.dmpcdn.com/livetv/2024/01/16/cff0f2a0-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",
 
 "url" : "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesportsd7/playlist.m3u8",
 
@@ -894,59 +642,8 @@
 
 },
 
-{
+แก้ไขเรื่อยๆ ถ้าว่าง
 
-"name" : "True Sports 7 (สำรอง)",
-
-"image" : "https://cms.dmpcdn.com/livetv/2023/04/28/f63723d0-e595-11ed-abcb-c792e696f885_webp_original.webp",
-
-"url" : "https://edge1.laotv.la/live/THD7/index.m3u8",
-
-"referer" : "https://www.youdooball.com/",
-
-"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-
-"desktop" : "true",
-
-"playInNatPlayer" : "true"
-
-},
-
-{
-
-"name" : "True TENNIS",
-
-"image" : "https://cms.dmpcdn.com/livetv/2023/04/28/f65ea900-e595-11ed-86b8-bb40638e3c49_webp_original.webp",
-
-"url" : "https://www.livedoomovies.com:4431/02_TennisHD_720p/chunklist.m3u8",
-
-"referer" : "https://www.youdooball.com/",
-
-"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-
-"desktop" : "true",
-
-"playInNatPlayer" : "true"
-
-},
-
-{
-
-"name" : "True TENNIS (สำรอง)",
-
-"image" : "https://cms.dmpcdn.com/livetv/2023/04/28/f65ea900-e595-11ed-86b8-bb40638e3c49_webp_original.webp",
-
-"url" : "https://rr5---sn-w5nuxa-c33lk-14.googleuservideo.com/ballhd24liv_e1/truetennis_480p/chunks.m3u8",
-
-"referer" : "https://www.ballhd24.live/",
-
-"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-
-"desktop" : "true",
-
-"playInNatPlayer" : "true"
-
-},
 
 
 
@@ -954,4 +651,3 @@
 ]
 
 }
-
