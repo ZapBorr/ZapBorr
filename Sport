@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="BALLTHAI 1" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/89262f60-30e1-11ee-b445-3703761d6f4d_webp_original.webp" group-title="BALL THAI",BALLTHAI 1
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/aisplay1/playlist.m3u8
+https://streamamg-fa.akamaiz.com/dookeela/trueballthai1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="BALLTHAI 2" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/8a0c49a0-30e1-11ee-b220-4544ede97b74_webp_original.webp" group-title="BALL THAI",BALLTHAI 2
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/aisplay2/playlist.m3u8
+https://streamamg-fa.akamaiz.com/dookeela/trueballthai1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDI0IDI6MDU6MzcgQU0maGFzaF92YWx1ZT1qcy9RSzRha0ZEMTNtY3VROGNJcHZnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTY0Yjc3ZTQ2YWMyOTU4YWE2Y2Q2NDgyODQ4ZDc0YzgmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTIy
 
 #EXTINF:-1 tvg-id="" tvg-name="BALLTHAI 3" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/8a3b21d0-30e1-11ee-a53e-b3f87dc8ba1e_webp_original.webp" group-title="BALL THAI",BALLTHAI 3
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/aisplay3/playlist.m3u8
