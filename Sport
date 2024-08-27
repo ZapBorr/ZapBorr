@@ -1,18 +1,18 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="BALLTHAI 1" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/89262f60-30e1-11ee-b445-3703761d6f4d_webp_original.webp" group-title="BALL THAI",BALLTHAI 1
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn1.googlecdnforstreaming.live/live/trueballthai1/playlist.m3u8
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/aisplay1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="BALLTHAI 2" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/8a0c49a0-30e1-11ee-b220-4544ede97b74_webp_original.webp" group-title="BALL THAI",BALLTHAI 2
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn1.googlecdnforstreaming.live/live/trueballthai2/playlist.m3u8
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/aisplay2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="BALLTHAI 3" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/8a3b21d0-30e1-11ee-a53e-b3f87dc8ba1e_webp_original.webp" group-title="BALL THAI",BALLTHAI 3
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn1.googlecdnforstreaming.live/live/trueballthai3/playlist.m3u8
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/aisplay3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="BALLTHAI 4" tvg-logo="https://cms.dmpcdn.com/livetv/2024/02/01/e3adbba0-c0ed-11ee-9f09-d517c2f32137_webp_original.webp" group-title="BALL THAI",BALLTHAI 4
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
