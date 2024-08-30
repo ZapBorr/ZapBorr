@@ -1,18 +1,53 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="BALLTHAI 1" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/89262f60-30e1-11ee-b445-3703761d6f4d_webp_original.webp" group-title="BALL THAI",BALLTHAI 1
-https://streamamg-fa.akamaiz.com/dookeela/trueballthai1/playlist.m3u8
+#EXTINF:-1 tvg-chno="1" tvg-id="BALLTHAI 1" tvg-name="BALLTHAI 1" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/89262f60-30e1-11ee-b445-3703761d6f4d_webp_original.webp",BALLTHAI 1
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn1.googlecdnforstreaming.live/live/trueballthai1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="BALLTHAI 2" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/8a0c49a0-30e1-11ee-b220-4544ede97b74_webp_original.webp" group-title="BALL THAI",BALLTHAI 2
-https://streamamg-fa.akamaiz.com/dookeela/trueballthai1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDI0IDI6MDU6MzcgQU0maGFzaF92YWx1ZT1qcy9RSzRha0ZEMTNtY3VROGNJcHZnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTY0Yjc3ZTQ2YWMyOTU4YWE2Y2Q2NDgyODQ4ZDc0YzgmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTIy
+#EXTINF:-1 tvg-chno="1" tvg-id="BALLTHAI 2" tvg-name="BALLTHAI 2" tvg-logo=" ",BALLTHAI 2
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn1.googlecdnforstreaming.live/live/trueballthai2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="BALLTHAI 3" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/8a3b21d0-30e1-11ee-a53e-b3f87dc8ba1e_webp_original.webp" group-title="BALL THAI",BALLTHAI 3
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/aisplay3/playlist.m3u8
+#EXTINF:-1 tvg-chno="1" tvg-id="BALLTHAI 3" tvg-name="BALLTHAI 3" tvg-logo=" ",BALLTHAI 3
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn1.googlecdnforstreaming.live/live/trueballthai3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="BALLTHAI 4" tvg-logo="https://cms.dmpcdn.com/livetv/2024/02/01/e3adbba0-c0ed-11ee-9f09-d517c2f32137_webp_original.webp" group-title="BALL THAI",BALLTHAI 4
+#EXTINF:-1 tvg-chno="1" tvg-id="BALLTHAI 4" tvg-name="BALLTHAI 4" tvg-logo=" ",BALLTHAI 4
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn1.googlecdnforstreaming.live/live/trueballthai4/playlist.m3u8
 
+#EXTINF:-1 tvg-chno="1" tvg-id="BALLTHAI 5" tvg-name="BALLTHAI 5" tvg-logo=" ",BALLTHAI 5
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn1.googlecdnforstreaming.live/live/trueballthai5/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="1" tvg-id="BALLTHAI 6" tvg-name="BALLTHAI 6" tvg-logo=" ",BALLTHAI 6
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn1.googlecdnforstreaming.live/live/trueballthai6/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="1" tvg-id="BALLTHAI 7" tvg-name="BALLTHAI 7" tvg-logo=" ",BALLTHAI 7
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn1.googlecdnforstreaming.live/live/trueballthai7/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="1" tvg-id="BALLTHAI 8" tvg-name="BALLTHAI 8" tvg-logo=" ",BALLTHAI 8
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn1.googlecdnforstreaming.live/live/trueballthai8/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="1" tvg-id="BALLTHAI 9" tvg-name="BALLTHAI 9" tvg-logo=" ",BALLTHAI 9
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn1.googlecdnforstreaming.live/live/trueballthai9/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="1" tvg-id="BALLTHAI 10" tvg-name="BALLTHAI 10" tvg-logo=" ",BALLTHAI 10
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn1.googlecdnforstreaming.live/live/trueballthai10/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="1" tvg-id="SIAMSPORT 1" tvg-name="SIAMSPORT 1" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT1.png",SIAMSPORT 1
 #EXTVLCOPT:http-referrer=https://dooballx.com/
@@ -36,30 +71,70 @@ https://cdn1.googlecdn.live/dooballx/siamsport4/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="True Premier Football 1" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Premier League",True Premier Football 1
-#EXTVLCOPT:http-referrer=https://livescorethai.net
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://streaming.livescorethai.net/iptv/bsb-epl1.stream/playlist.m3u8
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="True Premier Football 2" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24cc6ba0-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Premier League",True Premier Football 2
-#EXTVLCOPT:http-referrer=https://livescorethai.net
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://streaming.livescorethai.net/iptv/bsb-epl2.stream/playlist.m3u8
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="True Premier Football 3" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24cc6ba0-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Premier League",True Premier Football 3
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="True Premier Football 4" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24cc6ba0-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Premier League",True Premier Football 4
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="True Premier Football 5" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24cc6ba0-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Premier League",True Premier Football 5
+#EXTVLCOPT:http-referrer=https://dooballx.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn1.googlecdn.live/dooballx/tpf1/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" group-title="BEIN SPORTS",BEIN SPORTS 1
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
+#EXTVLCOPT:http-referrer=https://dooballx.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein1/playlist.m3u8
+https://cdn1.googlecdn.live/dooballx/bein1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" group-title="BEIN SPORTS",BEIN SPORTS 2
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
+#EXTVLCOPT:http-referrer=https://dooballx.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein2/playlist.m3u8
+https://cdn1.googlecdn.live/dooballx/bein2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp" group-title="BEIN SPORTS",BEIN SPORTS 3
+#EXTVLCOPT:http-referrer=https://dooballx.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn1.googlecdn.live/dooballx/bein3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp" group-title="BEIN SPORTS",BEIN SPORTS 4
+#EXTVLCOPT:http-referrer=https://dooballx.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn1.googlecdn.live/dooballx/bein4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp" group-title="BEIN SPORTS",BEIN SPORTS 5
+#EXTVLCOPT:http-referrer=https://dooballx.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn1.googlecdn.live/dooballx/bein5/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 6" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp" group-title="BEIN SPORTS",BEIN SPORTS 6
+#EXTVLCOPT:http-referrer=https://dooballx.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn1.googlecdn.live/dooballx/bein6/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp" group-title="BEIN SPORTS",BEIN SPORTS 7
+#EXTVLCOPT:http-referrer=https://dooballx.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn1.googlecdn.live/dooballx/bein7/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SPOTV 1" tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/1b2c69c0-20f3-11ec-92df-47614181eee6_webp_320.jpg" group-title="SPOTV",SPOTV 1
 #EXTVLCOPT:http-referrer=https://dooball2you.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein3/playlist.m3u8
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv1/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="SPOTV 2" tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/1b2c69c0-20f3-11ec-92df-47614181eee6_webp_320.jpg" group-title="SPOTV",SPOTV 2
