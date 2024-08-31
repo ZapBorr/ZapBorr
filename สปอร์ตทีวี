@@ -288,9 +288,9 @@
 
 "image" : "https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.webp",
 
-"url" : "https://www.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8",
+"url" : "https://cdn1.googlecdnforstreaming.live/live/epl1_sd/playlist.m3u8?wmsAuth=",
 
-"referer" : "https://www.youdooball.com/",
+"referer" : "https://warpdooball.net/",
 
 "userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 
@@ -306,9 +306,9 @@
 
 "image" : "https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.webp",
 
-"url" : "https://streaming.livescorethai.net/iptv/bsb-epl2.stream/playlist.m3u8",
+"url" : "https://cdn1.googlecdnforstreaming.live/live/epl2_sd/playlist.m3u8?wmsAuth=",
 
-"referer" : "https://livescorethai.net",
+"referer" : "https://warpdooball.net/",
 
 "userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 
@@ -324,9 +324,9 @@
 
 "image" : "https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.webp",
 
-"url" : "https://streaming.livescorethai.net/iptv/epl-3.stream/playlist.m3u8",
+"url" : "https://cdn1.googlecdnforstreaming.live/live/epl3_sd/playlist.m3u8?wmsAuth=",
 
-"referer" : "https://livescorethai.net",
+"referer" : "https://warpdooball.net/",
 
 "userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 
@@ -342,9 +342,9 @@
 
 "image" : "https://cms.dmpcdn.com/livetv/2023/05/03/bb0beb90-e966-11ed-993c-b59183950f79_webp_original.webp",
 
-"url" : "https://iptv-th.com:443/play/cgi3Vu4KHTlfKImhvoBfMOzHg9Y6IRIB6DGajUQFybk/.m3u8",
+"url" : "https://cdn1.googlecdnforstreaming.live/live/epl4_sd/playlist.m3u8?wmsAuth=",
 
-"referer" : "https://iptv-th.com/",
+"referer" : "https://warpdooball.net/",
 
 "userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 
@@ -360,9 +360,9 @@
 
 "image" : "https://cms.dmpcdn.com/livetv/2023/05/03/bbea1690-e966-11ed-935b-df134f58d288_webp_original.webp",
 
-"url" : "https://iptv-th.com:443/play/cgi3Vu4KHTlfKImhvoBfMDnjzF2DZmAiEaOrY9Jo6Ps/.m3u8",
+"url" : "https://cdn1.googlecdnforstreaming.live/live/epl5_sd/playlist.m3u8?wmsAuth=",
 
-"referer" : "https://iptv-th.com/",
+"referer" : "https://warpdooball.net/",
 
 "userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 
