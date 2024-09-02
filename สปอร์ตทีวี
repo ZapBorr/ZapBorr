@@ -69,6 +69,24 @@
 
 {
 
+"name" : "BALLTHAI 2 (สำรอง)",
+
+"image" : "https://cms.dmpcdn.com/livetv/2023/08/02/8a0c49a0-30e1-11ee-b220-4544ede97b74_webp_original.webp",
+
+"url" : "https://cdn1.googlecdnforstreaming.live/live/trueballthai2/playlist.m3u8",
+
+"referer" : "https://warpdooball.net/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
 "name" : "BALLTHAI 3",
 
 "image" : "https://cms.dmpcdn.com/livetv/2023/08/02/8a3b21d0-30e1-11ee-a53e-b3f87dc8ba1e_webp_original.webp",
@@ -87,6 +105,24 @@
 
 {
 
+"name" : "BALLTHAI 3 (สำรอง)",
+
+"image" : "https://cms.dmpcdn.com/livetv/2023/08/02/8a3b21d0-30e1-11ee-a53e-b3f87dc8ba1e_webp_original.webp",
+
+"url" : "https://cdn1.googlecdnforstreaming.live/live/trueballthai3/playlist.m3u8",
+
+"referer" : "https://warpdooball.net/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
 "name" : "BALLTHAI 4",
 
 "image" : "https://cms.dmpcdn.com/livetv/2024/02/01/e3adbba0-c0ed-11ee-9f09-d517c2f32137_webp_original.webp",
@@ -94,6 +130,24 @@
 "url" : "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/aisplay4/playlist.m3u8",
 
 "referer" : "https://dooball2you.com/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "BALLTHAI 4 (สำรอง)",
+
+"image" : "https://cms.dmpcdn.com/livetv/2024/02/01/e3adbba0-c0ed-11ee-9f09-d517c2f32137_webp_original.webp",
+
+"url" : "https://cdn1.googlecdnforstreaming.live/live/trueballthai4/playlist.m3u8",
+
+"referer" : "https://warpdooball.net/",
 
 "userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 
