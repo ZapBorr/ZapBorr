@@ -267,96 +267,6 @@
 
 {
 
-"name" : "FPSThailand (Live only)",
-
-"image" : "https://scontent.fbkk10-1.fna.fbcdn.net/v/t39.30808-6/357114132_663626395803876_9160901486783268101_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=y2Fic9FeWLcQ7kNvgH4iWN1&_nc_ht=scontent.fbkk10-1.fna&oh=00_AYDFAc5vdBXlon-lZ-refMBOlitIjJ6CREA91hsO3HBXcA&oe=66CF19F5",
-
-"url" : "https://global-media.sooplive.com/live/fpsthailand/master.m3u8",
-
-"referer" : "https://www.sooplive.com/",
-
-"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-
-"desktop" : "true",
-
-"playInNatPlayer" : "true"
-
-},
-
-{
-
-"name" : "SIAMSPORT 1",
-
-"image" : "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT1.png",
-
-"url" : "https://cdn1.googlecdn.live/dooballx/siamsport1/playlist.m3u8",
-
-"referer" : "https://dooballx.com/",
-
-"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-
-"desktop" : "true",
-
-"playInNatPlayer" : "true"
-
-},
-
-{
-
-"name" : "SIAMSPORT 2",
-
-"image" : "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT2.png",
-
-"url" : "https://cdn1.googlecdn.live/dooballx/siamsport2/playlist.m3u8",
-
-"referer" : "https://dooballx.com/",
-
-"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-
-"desktop" : "true",
-
-"playInNatPlayer" : "true"
-
-},
-
-{
-
-"name" : "SIAMSPORT 3",
-
-"image" : "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT3.png",
-
-"url" : "https://cdn1.googlecdn.live/dooballx/siamsport3/playlist.m3u8",
-
-"referer" : "https://dooballx.com/",
-
-"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-
-"desktop" : "true",
-
-"playInNatPlayer" : "true"
-
-},
-
-{
-
-"name" : "SIAMSPORT 4",
-
-"image" : "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT4.png",
-
-"url" : "https://cdn1.googlecdn.live/dooballx/siamsport4/playlist.m3u8",
-
-"referer" : "https://dooballx.com/",
-
-"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-
-"desktop" : "true",
-
-"playInNatPlayer" : "true"
-
-},
-
-{
-
 "name" : "EPL 1",
 
 "image" : "https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.webp",
@@ -573,6 +483,78 @@
 
 {
 
+"name" : "SIAMSPORT 1",
+
+"image" : "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT1.png",
+
+"url" : "https://cdn1.googlecdn.live/dooballx/siamsport1/playlist.m3u8",
+
+"referer" : "https://dooballx.com/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "SIAMSPORT 2",
+
+"image" : "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT2.png",
+
+"url" : "https://cdn1.googlecdn.live/dooballx/siamsport2/playlist.m3u8",
+
+"referer" : "https://dooballx.com/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "SIAMSPORT 3",
+
+"image" : "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT3.png",
+
+"url" : "https://cdn1.googlecdn.live/dooballx/siamsport3/playlist.m3u8",
+
+"referer" : "https://dooballx.com/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "SIAMSPORT 4",
+
+"image" : "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT4.png",
+
+"url" : "https://cdn1.googlecdn.live/dooballx/siamsport4/playlist.m3u8",
+
+"referer" : "https://dooballx.com/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
 "name" : "SPOTV",
 
 "image" : "https://dooball2you.com/wp-content/uploads/2023/09/sportv.jpg",
@@ -706,6 +688,24 @@
 "url" : "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesportsd7/playlist.m3u8",
 
 "referer" : "https://dooball2you.com/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "FPSThailand (Live only)",
+
+"image" : "https://scontent.fbkk10-1.fna.fbcdn.net/v/t39.30808-6/357114132_663626395803876_9160901486783268101_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=y2Fic9FeWLcQ7kNvgH4iWN1&_nc_ht=scontent.fbkk10-1.fna&oh=00_AYDFAc5vdBXlon-lZ-refMBOlitIjJ6CREA91hsO3HBXcA&oe=66CF19F5",
+
+"url" : "https://global-media.sooplive.com/live/fpsthailand/master.m3u8",
+
+"referer" : "https://www.sooplive.com/",
 
 "userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 
