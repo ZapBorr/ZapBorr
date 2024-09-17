@@ -681,6 +681,25 @@
 
 {
 
+"name" : "ThairathTV HD",
+
+"image" : "https://cms.dmpcdn.com/livetv/2024/07/18/848915e0-44e9-11ef-9e86-a13521bc09bd_webp_original.webp",
+
+"url" : "https://ssai-streaming.thairath.co.th/bamm-csai/720p/index.m3u8",
+
+"referer" : "https://www.thairath.co.th/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+
+{
+
 "name" : "TrueSport 1",
 
 "image" : "https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",
