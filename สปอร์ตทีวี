@@ -595,6 +595,24 @@
 
 "image" : "https://cms.dmpcdn.com/livetv/2021/09/29/1b2c69c0-20f3-11ec-92df-47614181eee6_webp_320.jpg",
 
+"url" : "https://cdn1.googlecdn.live/dooballx/spotv2/playlist.m3u8",
+
+"referer" : "https://dooballx.com/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "SPOTV 2 (สำรอง)",
+
+"image" : "https://cms.dmpcdn.com/livetv/2021/09/29/1b2c69c0-20f3-11ec-92df-47614181eee6_webp_320.jpg",
+
 "url" : "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv2/playlist.m3u8",
 
 "referer" : "https://dooball2you.com/",
@@ -725,96 +743,6 @@
 "url" : "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesportsd7/playlist.m3u8",
 
 "referer" : "https://dooball2you.com/",
-
-"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-
-"desktop" : "true",
-
-"playInNatPlayer" : "true"
-
-},
-
-{
-
-"name" : "Astro Supersport 1",
-
-"image" : "https://static.wikia.nocookie.net/logopedia/images/7/7d/Astro_SuperSport_1.png/revision/latest?cb=20200922172456",
-
-"url" : "https://cdn1.googlecdn.live/dooballx/astro1/playlist.m3u8",
-
-"referer" : "https://dooballx.com/",
-
-"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-
-"desktop" : "true",
-
-"playInNatPlayer" : "true"
-
-},
-
-{
-
-"name" : "Astro Supersport 2",
-
-"image" : "https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png/revision/latest?cb=20200924173634",
-
-"url" : "https://cdn1.googlecdn.live/dooballx/astro2/playlist.m3u8",
-
-"referer" : "https://dooballx.com/",
-
-"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-
-"desktop" : "true",
-
-"playInNatPlayer" : "true"
-
-},
-
-{
-
-"name" : "Astro Supersport 3",
-
-"image" : "https://static.wikia.nocookie.net/logopedia/images/e/e7/Astro_SuperSport_3.png/revision/latest?cb=20200924173711",
-
-"url" : "https://cdn1.googlecdn.live/dooballx/astro3/playlist.m3u8",
-
-"referer" : "https://dooballx.com/",
-
-"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-
-"desktop" : "true",
-
-"playInNatPlayer" : "true"
-
-},
-
-{
-
-"name" : "Astro Arena",
-
-"image" : "https://upload.wikimedia.org/wikipedia/commons/5/55/Astro_Arena_Bola.png",
-
-"url" : "https://cdn1.googlecdn.live/dooballx/astroarenabola/playlist.m3u8",
-
-"referer" : "https://dooballx.com/",
-
-"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-
-"desktop" : "true",
-
-"playInNatPlayer" : "true"
-
-},
-
-{
-
-"name" : "Astro Arena 2",
-
-"image" : "https://static.wikia.nocookie.net/logos/images/9/9b/Astro_Arena_2_logo.png/revision/latest?cb=20230515093956&path-prefix=vi",
-
-"url" : "https://cdn1.googlecdn.live/dooballx/astroarenabola2/playlist.m3u8",
-
-"referer" : "https://dooballx.com/",
 
 "userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 
