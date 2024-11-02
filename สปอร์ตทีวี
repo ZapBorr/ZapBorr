@@ -770,6 +770,25 @@
 
 },
 
+{
+
+"name" : "LOL ESPORTS_TH (Live only)",
+
+"image" : "https://brand.riotgames.com/static/76a299257f74a15e758228e391061602/b729e/06_Donts_07.webp",
+
+"url" : "https://global-media.sooplive.com/live/lolesportsth/master.m3u8",
+
+"referer" : "https://www.sooplive.com/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+
 
 
 
