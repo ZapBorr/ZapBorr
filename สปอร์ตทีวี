@@ -627,6 +627,24 @@
 
 {
 
+"name" : "F1 TV",
+
+"image" : "https://logodownload.org/wp-content/uploads/2024/05/f1-tv-logo-0.png",
+
+"url" : "https://cdn1.googlecdnforstreaming.live/live/dklsport33/chunks.m3u8",
+
+"referer" : "https://warpdooball.net/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
 "name" : "PPTV HD",
 
 "image" : "https://cms.dmpcdn.com/livetv/2024/06/26/48fb8a90-338b-11ef-a958-ed31043c43a3_webp_original.webp",
