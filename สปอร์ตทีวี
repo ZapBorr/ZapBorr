@@ -679,6 +679,24 @@
 
 },
 
+{
+
+"name" : "Workpoint",
+
+"image" : "https://cms.dmpcdn.com/livetv/2023/11/17/2a1de990-852d-11ee-bf98-41acc8fd04fc_webp_original.webp",
+
+"url" : "https://global-media.sooplive.com/live/workpoint/master.m3u8",
+
+"referer" : "https://www.sooplive.com/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
 
 {
 
