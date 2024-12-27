@@ -271,9 +271,9 @@
 
 "image" : "https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.webp",
 
-"url" : "https://cdn1.googlecdnforstreaming.live/live/epl1_sd/playlist.m3u8?wmsAuth=",
+"url" : "https://cdn1.googlecdn.live/4k/epl1_sd/playlist.m3u8",
 
-"referer" : "https://warpdooball.net/",
+"referer" : "https://dookeela.live/",
 
 "userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 
@@ -289,9 +289,9 @@
 
 "image" : "https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.webp",
 
-"url" : "https://cdn1.googlecdn.live/dooballx/epl2/playlist.m3u8",
+"url" : "https://cdn2.aws-live-streaming.com/lsmscore/epl2/playlist.m3u8",
 
-"referer" : "https://dooballx.com/",
+"referer" : "https://dookeela.live/",
 
 "userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 
@@ -307,9 +307,9 @@
 
 "image" : "https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.webp",
 
-"url" : "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf3/playlist.m3u8",
+"url" : "https://cdn2.aws-live-streaming.com/lsmscore/epl3/playlist.m3u8",
 
-"referer" : "https://dooball2you.com/",
+"referer" : "https://dookeela.live/",
 
 "userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 
@@ -325,9 +325,9 @@
 
 "image" : "https://cms.dmpcdn.com/livetv/2023/05/03/bb0beb90-e966-11ed-993c-b59183950f79_webp_original.webp",
 
-"url" : "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf4/playlist.m3u8",
+"url" : "https://cdn2.aws-live-streaming.com/lsmscore/epl4/playlist.m3u8",
 
-"referer" : "https://dooball2you.com/",
+"referer" : "https://dookeela.live/",
 
 "userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 
@@ -343,9 +343,9 @@
 
 "image" : "https://cms.dmpcdn.com/livetv/2023/05/03/bbea1690-e966-11ed-935b-df134f58d288_webp_original.webp",
 
-"url" : "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf5/playlist.m3u8",
+"url" : "https://cdn2.aws-live-streaming.com/lsmscore/epl5/playlist.m3u8",
 
-"referer" : "https://dooball2you.com/",
+"referer" : "https://dookeela.live/",
 
 "userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 
