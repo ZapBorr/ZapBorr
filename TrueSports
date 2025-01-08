@@ -138,6 +138,27 @@
 
 },
 
+{
+
+"name" : "True Tennis",
+
+"image" : "https://cms.dmpcdn.com/livetv/2023/04/28/f65ea900-e595-11ed-86b8-bb40638e3c49_webp_original.webp",
+
+"url" : "https://dookeela.live/live-tv/truetennis",
+
+"referer" : "https://dookeela.live/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+
+
+
 ]
 
 }
