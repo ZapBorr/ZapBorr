@@ -102,17 +102,51 @@
 
 },
 
+{
 
+"name" : "Thai PBS HD",
+
+"image" : "https://cms.dmpcdn.com/livetv/2023/09/15/ab170410-5377-11ee-8e1b-194edbb69638_webp_original.webp",
+
+"url" : "https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8",
+
+"referer" : "https://dookeela.live/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
 
 {
 
-"name" : "PPTV HD",
+"name" : "TNN 16",
 
-"image" : "https://cms.dmpcdn.com/livetv/2024/06/26/48fb8a90-338b-11ef-a958-ed31043c43a3_webp_original.webp",
+"image" : "https://cms.dmpcdn.com/livetv/2023/10/02/75023d90-60f1-11ee-935a-5d4eba985103_webp_original.webp",
 
-"url" : "https://cdnsv1.bunnycdncloud.com/andaman888th/pptv/digitaltv/pptv/chunks.m3u8",
+"url" : "https://edge6a.v2h-cdn.com/tnn24/tnn24.stream/playlist.m3u8",
 
-"referer" : "https://www.andaman888th.com/",
+"referer" : "https://dookeela.live/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "NATION 22",
+
+"image" : "https://cms.dmpcdn.com/livetv/2023/09/09/9c6f59c0-4ebe-11ee-99a7-832609069236_webp_original.webp",
+
+"url" : "https://edge6a.v2h-cdn.com/nation/nation.stream/playlist.m3u8",
+
+"referer" : "https://dookeela.live/",
 
 "userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 
@@ -142,6 +176,78 @@
 
 {
 
+"name" : "ONE HD",
+
+"image" : "https://cms.dmpcdn.com/livetv/2019/01/16/396384be-35dc-4d11-bf04-06c9546ec7bc.png",
+
+"url" : "https://dookeela.live/live-tv/one31",
+
+"referer" : "https://dookeela.live/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "AMARIN TV",
+
+"image" : "https://cms.dmpcdn.com/livetv/2024/07/23/5e86fbc0-48c0-11ef-9fca-d9696b8af2b7_webp_original.webp",
+
+"url" : "https://dookeela.live/live-tv/amarintv",
+
+"referer" : "https://dookeela.live/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "PPTV HD",
+
+"image" : "https://cms.dmpcdn.com/livetv/2024/06/26/48fb8a90-338b-11ef-a958-ed31043c43a3_webp_original.webp",
+
+"url" : "https://cdnsv1.bunnycdncloud.com/andaman888th/pptv/digitaltv/pptv/chunks.m3u8",
+
+"referer" : "https://www.andaman888th.com/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "MONO 29",
+
+"image" : "https://cms.dmpcdn.com/livetv/2019/01/10/35a35017-8473-4953-8474-5c58d805b74a.png",
+
+"url" : "https://streaming.monomax.me/Mono29LiveStream/ngrp:myStream_all/chunklist_b6628000.m3u8",
+
+"referer" : "https://dookeela.live/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
 "name" : "Workpoint",
 
 "image" : "https://cms.dmpcdn.com/livetv/2023/11/17/2a1de990-852d-11ee-bf98-41acc8fd04fc_webp_original.webp",
@@ -158,7 +264,113 @@
 
 },
 
+{
 
+"name" : "GMM TV",
+
+"image" : "https://cms.dmpcdn.com/livetv/2020/11/19/ed873d50-2a22-11eb-bed4-0972e345f90c_original.png",
+
+"url" : "https://bcovlive-a.akamaihd.net/fb7ac9cc4e1140238e3077ffd29337fe/ap-southeast-1/6415628290001/playlist.m3u8",
+
+"referer" : "https://dookeela.live/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "TRUE4U",
+
+"image" : "https://cms.dmpcdn.com/livetv/2023/09/15/84504210-5377-11ee-aaa1-7d584d8ca7a4_webp_original.webp",
+
+"url" : "https://edge6a.v2h-cdn.com/true4u/true4u.stream/playlist.m3u8",
+
+"referer" : "https://dookeela.live/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "JKN 18",
+
+"image" : "https://cms.dmpcdn.com/livetv/2021/06/15/3e4e0540-cdb4-11eb-9a22-7958179a38a7_original.png",
+
+"url" : "https://edge4.thaicom.io/v3/ta/JKN18/chunklist_live_480p_VB7GL.m3u8",
+
+"referer" : "https://looxtv.tv/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "CH8",
+
+"image" : "https://cms.dmpcdn.com/livetv/2024/12/24/f5c6ee50-c1d3-11ef-962c-55a14ec29c2c_webp_original.webp",
+
+"url" : "https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8",
+
+"referer" : "https://dookeela.live/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "ALTV4",
+
+"image" : "https://cms.dmpcdn.com/livetv/2020/07/14/72c22620-c5aa-11ea-a8d3-2b56c8ce453d_original.png",
+
+"url" : "https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8",
+
+"referer" : "https://dookeela.live/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "Tsports 7",
+
+"image" : "https://static.thaicom.io/chbig/big_262_20211117081017.png",
+
+"url" : "https://dookeela.live/live-tv/tsports7",
+
+"referer" : "https://dookeela.live/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
 
 ]
 
