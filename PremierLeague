@@ -1,0 +1,107 @@
+{
+ 
+"name" : "พรีเมียร์ลีก อังกฤษ",
+ 
+"author" : "โดย: นุ",
+ 
+"image" : "https://i0.wp.com/theesk.org/wp-content/uploads/2017/10/pl-logo-blog-premier-league_3758341.jpg?fit=192%2C192&ssl=1",
+ 
+"url" : "https://raw.githubusercontent.com/ZapBorr/ZapBorr/main/PremierLeague",
+ 
+"stations" :
+ 
+[
+
+{
+
+"name" : "EPL 1",
+
+"image" : "https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.webp",
+
+"url" : "https://cdn1.googlecdn.live/4k/epl1_sd/playlist.m3u8",
+
+"referer" : "https://dookeela.live/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "EPL 2",
+
+"image" : "https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.webp",
+
+"url" : "https://cdn2.aws-live-streaming.com/lsmscore/epl2/playlist.m3u8",
+
+"referer" : "https://dookeela.live/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "EPL 3",
+
+"image" : "https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.webp",
+
+"url" : "https://cdn2.aws-live-streaming.com/lsmscore/epl3/playlist.m3u8",
+
+"referer" : "https://dookeela.live/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "EPL 4",
+
+"image" : "https://cms.dmpcdn.com/livetv/2023/05/03/bb0beb90-e966-11ed-993c-b59183950f79_webp_original.webp",
+
+"url" : "https://cdn2.aws-live-streaming.com/lsmscore/epl4/playlist.m3u8",
+
+"referer" : "https://dookeela.live/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "EPL 5",
+
+"image" : "https://cms.dmpcdn.com/livetv/2023/05/03/bbea1690-e966-11ed-935b-df134f58d288_webp_original.webp",
+
+"url" : "https://cdn2.aws-live-streaming.com/lsmscore/epl5/playlist.m3u8",
+
+"referer" : "https://dookeela.live/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+]
+
+}
