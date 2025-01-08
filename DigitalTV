@@ -1,0 +1,73 @@
+{
+ 
+"name" : "ดิจิตอล ทีวี",
+ 
+"author" : "โดย: นุ",
+ 
+"image" : "https://digital.nbtc.go.th/App_Themes/Stylesheet/images/LOGO.png",
+ 
+"url" : "https://raw.githubusercontent.com/ZapBorr/ZapBorr/main/DigitalTV",
+ 
+"stations" :
+ 
+[
+
+{
+
+"name" : "PPTV HD",
+
+"image" : "https://cms.dmpcdn.com/livetv/2024/06/26/48fb8a90-338b-11ef-a958-ed31043c43a3_webp_original.webp",
+
+"url" : "https://cdnsv1.bunnycdncloud.com/andaman888th/pptv/digitaltv/pptv/chunks.m3u8",
+
+"referer" : "https://www.andaman888th.com/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "ThairathTV HD",
+
+"image" : "https://cms.dmpcdn.com/livetv/2024/07/18/848915e0-44e9-11ef-9e86-a13521bc09bd_webp_original.webp",
+
+"url" : "https://ssai-streaming.thairath.co.th/bamm-csai/720p/index.m3u8",
+
+"referer" : "https://www.thairath.co.th/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "Workpoint",
+
+"image" : "https://cms.dmpcdn.com/livetv/2023/11/17/2a1de990-852d-11ee-bf98-41acc8fd04fc_webp_original.webp",
+
+"url" : "https://global-media.sooplive.com/live/workpoint/master.m3u8",
+
+"referer" : "https://www.sooplive.com/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+
+
+]
+
+}
