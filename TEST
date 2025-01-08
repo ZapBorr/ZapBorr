@@ -1,4 +1,89 @@
-#EXTINF:-1 tvg-id="" tvg-name="True Premier Football 3" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_1.png", group-title="AIS SPORTS", True Premier Football 3
-#EXTVLCOPT:http-referrer=https://www.123-hd.com/
-https://xxx.77player.xyz/m3u8/dbb0fcffe44ede94fb444544/dbb0fcffe44ede94fb444544800.m3u8
+{
 
+"name" : "SPOTV",
+
+"image" : "https://dooball2you.com/wp-content/uploads/2023/09/sportv.jpg",
+
+"url" : "https://cdn1.googlecdn.live/dooballx/spotv/playlist.m3u8",
+
+"referer" : "https://dooballx.com/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "SPOTV (สำรอง)",
+
+"image" : "https://dooball2you.com/wp-content/uploads/2023/09/sportv.jpg",
+
+"url" : "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv1/playlist.m3u8",
+
+"referer" : "https://dooball2you.com/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "SPOTV 2",
+
+"image" : "https://cms.dmpcdn.com/livetv/2021/09/29/1b2c69c0-20f3-11ec-92df-47614181eee6_webp_320.jpg",
+
+"url" : "https://cdn1.googlecdn.live/dooballx/spotv2/playlist.m3u8",
+
+"referer" : "https://dooballx.com/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "SPOTV 2 (สำรอง)",
+
+"image" : "https://cms.dmpcdn.com/livetv/2021/09/29/1b2c69c0-20f3-11ec-92df-47614181eee6_webp_320.jpg",
+
+"url" : "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv2/playlist.m3u8",
+
+"referer" : "https://dooball2you.com/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "F1 TV",
+
+"image" : "https://logodownload.org/wp-content/uploads/2024/05/f1-tv-logo-0.png",
+
+"url" : "https://cdn1.googlecdnforstreaming.live/live/dklsport33/chunks.m3u8",
+
+"referer" : "https://warpdooball.net/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
