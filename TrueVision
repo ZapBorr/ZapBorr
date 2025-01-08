@@ -1,1 +1,219 @@
+{
+ 
+"name" : "ทรูวิชั่น",
+ 
+"author" : "โดย: นุ",
+ 
+"image" : "https://www.truevisions.info/wp-content/uploads/2020/10/logo-truevisions-04.png",
+ 
+"url" : "https://raw.githubusercontent.com/ZapBorr/ZapBorr/main/TrueVision",
+ 
+"stations" :
+ 
+[
 
+
+{
+
+"name" : "True Thai Film",
+
+"image" : "https://cms.dmpcdn.com/livetv/2024/01/16/cffb79f0-b44d-11ee-80bd-b787d7bab688_webp_original.webp",
+
+"url" : "https://dookeela.live/live-tv/truethaifilm",
+
+"referer" : "https://dookeela.live/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "True Film 1",
+
+"image" : "https://cms.dmpcdn.com/livetv/2024/01/16/cad78460-b44c-11ee-80bd-b787d7bab688_webp_original.webp",
+
+"url" : "https://dookeela.live/live-tv/truefilm1",
+
+"referer" : "https://dookeela.live/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "True Film 2",
+
+"image" : "https://cms.dmpcdn.com/livetv/2024/01/16/cb3a8bf0-b44c-11ee-bbdb-077300b4f5a1_webp_original.webp",
+
+"url" : "https://dookeela.live/live-tv/truefilm2",
+
+"referer" : "https://dookeela.live/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "True Film Asia",
+
+"image" : "https://cms.dmpcdn.com/livetv/2024/01/16/cb907420-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp",
+
+"url" : "https://dookeela.live/live-tv/truefilmasia",
+
+"referer" : "https://dookeela.live/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "True Movie Hits",
+
+"image" : "https://cms.dmpcdn.com/livetv/2024/01/16/cccc0160-b44c-11ee-9f05-591527f02603_webp_original.webp",
+
+"url" : "https://dookeela.live/live-tv/truemoviehits",
+
+"referer" : "https://dookeela.live/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "True Series",
+
+"image" : "https://cms.dmpcdn.com/livetv/2024/03/01/201c6dd0-d79f-11ee-afcd-214a368edc48_webp_original.webp",
+
+"url" : "https://dookeela.live/live-tv/trueseries",
+
+"referer" : "https://dookeela.live/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "True X-Zyte",
+
+"image" : "https://cms.dmpcdn.com/livetv/2024/04/10/5ecb9e30-f724-11ee-a17f-0795ff88f566_webp_original.webp",
+
+"url" : "https://dookeela.live/live-tv/truex-zyte",
+
+"referer" : "https://dookeela.live/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "True Explore Life",
+
+"image" : "https://cms.dmpcdn.com/livetv/2024/01/16/c97ab380-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp",
+
+"url" : "https://dookeela.live/live-tv/trueexplorelife",
+
+"referer" : "https://dookeela.live/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "True Explore Sci",
+
+"image" : "https://cms.dmpcdn.com/livetv/2024/01/16/c9f16a20-b44c-11ee-8e80-c3f417d0d932_webp_original.webp",
+
+"url" : "https://dookeela.live/live-tv/trueexploresci",
+
+"referer" : "https://dookeela.live/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "True Explore Wild",
+
+"image" : "https://cms.dmpcdn.com/livetv/2024/01/16/ca686ee0-b44c-11ee-9f05-591527f02603_webp_original.webp",
+
+"url" : "https://dookeela.live/live-tv/trueexplorewild",
+
+"referer" : "https://dookeela.live/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]
+
+}
