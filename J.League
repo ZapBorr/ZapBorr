@@ -1,19 +1,71 @@
-#EXTINF:-1 tvg-chno="1" tvg-id="SIAMSPORT 1" tvg-name="SIAMSPORT 1" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT1.png",SIAMSPORT 1
-#EXTVLCOPT:http-referrer=https://dooballx.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn1.googlecdn.live/dooballx/siamsport1/playlist.m3u8
+{
 
-#EXTINF:-1 tvg-chno="1" tvg-id="SIAMSPORT 2" tvg-name="SIAMSPORT 2" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT2.png",SIAMSPORT 2
-#EXTVLCOPT:http-referrer=https://dooballx.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn1.googlecdn.live/dooballx/siamsport2/playlist.m3u8
+"name" : "SIAMSPORT 1",
 
-#EXTINF:-1 tvg-chno="1" tvg-id="SIAMSPORT 3" tvg-name="SIAMSPORT 3" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT3.png",SIAMSPORT 3
-#EXTVLCOPT:http-referrer=https://dooballx.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn1.googlecdn.live/dooballx/siamsport3/playlist.m3u8
+"image" : "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT1.png",
 
-#EXTINF:-1 tvg-chno="1" tvg-id="SIAMSPORT 4" tvg-name="SIAMSPORT 4" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT4.png",SIAMSPORT 4
-#EXTVLCOPT:http-referrer=https://dooballx.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn1.googlecdn.live/dooballx/siamsport4/playlist.m3u8
+"url" : "https://cdn1.googlecdn.live/dooballx/siamsport1/playlist.m3u8",
+
+"referer" : "https://dooballx.com/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "SIAMSPORT 2",
+
+"image" : "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT2.png",
+
+"url" : "https://cdn1.googlecdn.live/dooballx/siamsport2/playlist.m3u8",
+
+"referer" : "https://dooballx.com/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "SIAMSPORT 3",
+
+"image" : "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT3.png",
+
+"url" : "https://cdn1.googlecdn.live/dooballx/siamsport3/playlist.m3u8",
+
+"referer" : "https://dooballx.com/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "SIAMSPORT 4",
+
+"image" : "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT4.png",
+
+"url" : "https://cdn1.googlecdn.live/dooballx/siamsport4/playlist.m3u8",
+
+"referer" : "https://dooballx.com/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
