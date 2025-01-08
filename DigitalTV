@@ -108,7 +108,7 @@
 
 "image" : "https://cms.dmpcdn.com/livetv/2023/09/15/ab170410-5377-11ee-8e1b-194edbb69638_webp_original.webp",
 
-"url" : "https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8",
+"url" : "https://dookeela.live/live-tv/thaipbs",
 
 "referer" : "https://dookeela.live/",
 
@@ -144,7 +144,7 @@
 
 "image" : "https://cms.dmpcdn.com/livetv/2023/09/09/9c6f59c0-4ebe-11ee-99a7-832609069236_webp_original.webp",
 
-"url" : "https://edge6a.v2h-cdn.com/nation/nation.stream/playlist.m3u8",
+"url" : "https://dookeela.live/live-tv/nationtv",
 
 "referer" : "https://dookeela.live/",
 
@@ -248,6 +248,24 @@
 
 {
 
+"name" : "MONO 29 Plus",
+
+"image" : "https://scontent.fbkk14-1.fna.fbcdn.net/v/t39.30808-6/304776769_477304134394361_8762025903597306071_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=T_ym2P4PkxoQ7kNvgFxKbDp&_nc_zt=23&_nc_ht=scontent.fbkk14-1.fna&_nc_gid=AZCOoFSnIFmWtxaW8E0F43E&oh=00_AYDUlDy1c47WisJsPZsWTznFlLT9Bv0qdIC12IvHsVuOSA&oe=67841DE3",
+
+"url" : "https://dookeela.live/live-tv/mono29plus",
+
+"referer" : "https://dookeela.live/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
 "name" : "Workpoint",
 
 "image" : "https://cms.dmpcdn.com/livetv/2023/11/17/2a1de990-852d-11ee-bf98-41acc8fd04fc_webp_original.webp",
@@ -270,7 +288,7 @@
 
 "image" : "https://cms.dmpcdn.com/livetv/2020/11/19/ed873d50-2a22-11eb-bed4-0972e345f90c_original.png",
 
-"url" : "https://bcovlive-a.akamaihd.net/fb7ac9cc4e1140238e3077ffd29337fe/ap-southeast-1/6415628290001/playlist.m3u8",
+"url" : "https://dookeela.live/live-tv/gmm25",
 
 "referer" : "https://dookeela.live/",
 
@@ -288,27 +306,9 @@
 
 "image" : "https://cms.dmpcdn.com/livetv/2023/09/15/84504210-5377-11ee-aaa1-7d584d8ca7a4_webp_original.webp",
 
-"url" : "https://edge6a.v2h-cdn.com/true4u/true4u.stream/playlist.m3u8",
+"url" : "https://dookeela.live/live-tv/true4u",
 
 "referer" : "https://dookeela.live/",
-
-"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-
-"desktop" : "true",
-
-"playInNatPlayer" : "true"
-
-},
-
-{
-
-"name" : "JKN 18",
-
-"image" : "https://cms.dmpcdn.com/livetv/2021/06/15/3e4e0540-cdb4-11eb-9a22-7958179a38a7_original.png",
-
-"url" : "https://edge4.thaicom.io/v3/ta/JKN18/chunklist_live_480p_VB7GL.m3u8",
-
-"referer" : "https://looxtv.tv/",
 
 "userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 
@@ -324,7 +324,7 @@
 
 "image" : "https://cms.dmpcdn.com/livetv/2024/12/24/f5c6ee50-c1d3-11ef-962c-55a14ec29c2c_webp_original.webp",
 
-"url" : "https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8",
+"url" : "https://dookeela.live/live-tv/ch8",
 
 "referer" : "https://dookeela.live/",
 
@@ -361,6 +361,42 @@
 "image" : "https://static.thaicom.io/chbig/big_262_20211117081017.png",
 
 "url" : "https://dookeela.live/live-tv/tsports7",
+
+"referer" : "https://dookeela.live/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "3BB Asian",
+
+"image" : "https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/3BBAsian.png",
+
+"url" : "https://dookeela.live/live-tv/3bbasian",
+
+"referer" : "https://dookeela.live/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "3BB Sports 1",
+
+"image" : "https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/3BBSportsOne.png",
+
+"url" : "https://dookeela.live/live-tv/3bbsports1",
 
 "referer" : "https://dookeela.live/",
 
