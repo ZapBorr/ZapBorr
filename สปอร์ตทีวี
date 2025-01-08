@@ -11,42 +11,50 @@
 				"name": "บอลไทย",
 				"image": "https://upload.wikimedia.org/wikipedia/th/thumb/2/28/Hilux_Revo_Thai_League_2021%E2%80%9322.png/250px-Hilux_Revo_Thai_League_2021%E2%80%9322.png",
 				"url": "https://raw.githubusercontent.com/ZapBorr/ZapBorr/main/BallThai",
-				"info": "....",
+				"info": "โดย นุ",
 				"import": false},
 
 			{
 				"name": "พรีเมียร์ลีก อังกฤษ",
 				"image": "https://i0.wp.com/theesk.org/wp-content/uploads/2017/10/pl-logo-blog-premier-league_3758341.jpg?fit=192%2C192&ssl=1",
 				"url": "https://raw.githubusercontent.com/ZapBorr/ZapBorr/main/PremierLeague",
-				"info": "....",
+				"info": "โดย นุ",
 				"import": false},
 
 			{
 				"name": "บีอิน สปอร์ต",
 				"image": "https://scontent.fbkk10-1.fna.fbcdn.net/v/t39.30808-6/325973621_3155573204741098_6725818558304214899_n.png?_nc_cat=1&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=GxhncD_oplUQ7kNvgGG7BqQ&_nc_zt=23&_nc_ht=scontent.fbkk10-1.fna&_nc_gid=A6qa-yCj2BNKhVkgp_U4OwL&oh=00_AYCXdNgnLTWZOjrTkVZ1D8iTIiNJ7lhipMcXmPGsVRpsbQ&oe=67841A4E",
 				"url": "https://raw.githubusercontent.com/ZapBorr/ZapBorr/main/beINSPORTS",
-				"info": "....",
+				"info": "โดย นุ",
 				"import": false},
 
 			{
 				"name": "ทรู สปอร์ต",
 				"image": "https://yt3.googleusercontent.com/ytc/AIdro_liBmXLzD3xwNVXCfD_9h-O3A7jQRoEGZxgoUT_IREjHw=s160-c-k-c0x00ffffff-no-rj",
 				"url": "https://raw.githubusercontent.com/ZapBorr/ZapBorr/main/TrueSports",
-				"info": "....",
+				"info": "โดย นุ",
 				"import": false},
 
 			{
 				"name": "ดิจิตอล ทีวี",
 				"image": "https://digital.nbtc.go.th/App_Themes/Stylesheet/images/LOGO.png",
 				"url": "https://raw.githubusercontent.com/ZapBorr/ZapBorr/main/DigitalTV",
-				"info": "....",
+				"info": "โดย นุ",
+				"import": false},
+
+
+			{
+				"name": "ทรูวิชั่น",
+				"image": "https://www.truevisions.info/wp-content/uploads/2020/10/logo-truevisions-04.png",
+				"url": "https://raw.githubusercontent.com/ZapBorr/ZapBorr/main/TrueVision",
+				"info": "โดย นุ",
 				"import": false},
 
 			{
 				"name": "อี สปอร์ต",
 				"image": "https://as1.ftcdn.net/v2/jpg/04/52/14/56/1000_F_452145633_nYUYdMdnHZ44sJbrgW9BfRcPbBIUxTXP.jpg",
 				"url": "https://raw.githubusercontent.com/ZapBorr/ZapBorr/main/Esport",
-				"info": "....",
+				"info": "โดย นุ",
 				"import": false},
 
 
