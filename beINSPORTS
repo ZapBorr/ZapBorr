@@ -1,0 +1,179 @@
+{
+ 
+"name" : "บีอิน สปอร์ต",
+ 
+"author" : "โดย: นุ",
+ 
+"image" : "https://scontent.fbkk10-1.fna.fbcdn.net/v/t39.30808-6/325973621_3155573204741098_6725818558304214899_n.png?_nc_cat=1&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=GxhncD_oplUQ7kNvgGG7BqQ&_nc_zt=23&_nc_ht=scontent.fbkk10-1.fna&_nc_gid=A6qa-yCj2BNKhVkgp_U4OwL&oh=00_AYCXdNgnLTWZOjrTkVZ1D8iTIiNJ7lhipMcXmPGsVRpsbQ&oe=67841A4E",
+ 
+"url" : "https://raw.githubusercontent.com/ZapBorr/ZapBorr/main/beINSPORTS",
+ 
+"stations" :
+ 
+[
+
+{
+
+"name" : "BEIN SPORTS 1",
+
+"image" : "https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
+
+"url" : "https://dookeela.live/live-tv/bein1",
+
+"referer" : "https://dookeela.live/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "BEIN SPORTS 2",
+
+"image" : "https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
+
+"url" : "https://dookeela.live/live-tv/bein2",
+
+"referer" : "https://dookeela.live/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "BEIN SPORTS 3",
+
+"image" : "https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp",
+
+"url" : "https://dookeela.live/live-tv/bein3",
+
+"referer" : "https://dookeela.live/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "BEIN SPORTS 4",
+
+"image" : "https://cms.dmpcdn.com/livetv/2023/08/02/2f7a5b20-30f6-11ee-8c65-b3a6cba5ed9d_webp_original.webp",
+
+"url" : "https://dookeela.live/live-tv/bein4",
+
+"referer" : "https://dookeela.live/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "BEIN SPORTS 5",
+
+"image" : "https://cms.dmpcdn.com/livetv/2023/08/02/300adb50-30f6-11ee-b3e7-85edd640cc04_webp_original.webp",
+
+"url" : "https://dookeela.live/live-tv/bein5",
+
+"referer" : "https://dookeela.live/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "BEIN SPORTS 6",
+
+"image" : "https://cms.dmpcdn.com/livetv/2023/08/02/2f7ad050-30f6-11ee-b57d-a9829f092f3e_webp_original.webp",
+
+"url" : "https://dookeela.live/live-tv/bein6",
+
+"referer" : "https://dookeela.live/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "BEIN SPORTS 7",
+
+"image" : "https://cms.dmpcdn.com/livetv/2024/08/14/9129ec90-5a1d-11ef-b567-e1cdaa5397dd_webp_original.webp",
+
+"url" : "https://dookeela.live/live-tv/bein7",
+
+"referer" : "https://dookeela.live/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "BEIN SPORTS 8",
+
+"image" : "https://cms.dmpcdn.com/livetv/2024/08/14/91295050-5a1d-11ef-a30f-0d36085b5b8b_webp_original.webp",
+
+"url" : "https://dookeela.live/live-tv/bein8",
+
+"referer" : "https://dookeela.live/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "BEIN SPORTS 9",
+
+"image" : "https://cms.dmpcdn.com/livetv/2024/08/14/91c0fc70-5a1d-11ef-b567-e1cdaa5397dd_webp_original.webp",
+
+"url" : "https://dookeela.live/live-tv/bein9",
+
+"referer" : "https://dookeela.live/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+]
+
+}
