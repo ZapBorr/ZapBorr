@@ -123,6 +123,24 @@
 
 {
 
+"name" : "True Asian More",
+
+"image" : "https://cms.dmpcdn.com/livetv/2024/01/16/c8f249a0-b44c-11ee-bbdb-077300b4f5a1_webp_original.webp",
+
+"url" : "https://dookeela.live/live-tv/trueasianmore",
+
+"referer" : "https://dookeela.live/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
 "name" : "AXN",
 
 "image" : "https://www.mncvision.tv/userfiles/image/channel/axn_150x150.jpg",
