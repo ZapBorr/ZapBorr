@@ -14,13 +14,13 @@
 
 {
 
-"name" : "BALLTHAI 10",
+"name" : "HBO",
 
-"image" : "https://cms.dmpcdn.com/livetv/2024/08/14/e249c340-5a16-11ef-a30f-0d36085b5b8b_webp_original.webp",
+"image" : "https://www.mncvision.tv/userfiles/image/channel/hbo.png",
 
-"url" : "https://cdn1.googlecdnforstreaming.live/live/trueballthai10/playlist.m3u8",
+"url" : "https://dookeela.live/live-tv/hbo",
 
-"referer" : "https://warpdooball.net/",
+"referer" : "https://dookeela.live/",
 
 "userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 
@@ -29,6 +29,97 @@
 "playInNatPlayer" : "true"
 
 },
+
+{
+
+"name" : "HBO Family",
+
+"image" : "https://www.mncvision.tv/userfiles/image/channel/hbo_family.png",
+
+"url" : "https://dookeela.live/live-tv/hbo-family",
+
+"referer" : "https://dookeela.live/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "HBO Hits",
+
+"image" : "https://www.mncvision.tv/userfiles/image/channel/hbo_hits.png",
+
+"url" : "https://dookeela.live/live-tv/hbo-hits",
+
+"referer" : "https://dookeela.live/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "HBO Signature",
+
+"image" : "https://www.mncvision.tv/userfiles/image/channel/hbo_signature.jpg",
+
+"url" : "https://dookeela.live/live-tv/hbo-signature",
+
+"referer" : "https://dookeela.live/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "HITS",
+
+"image" : "https://www.hitstv.com/assets/hits.png",
+
+"url" : "https://dookeela.live/live-tv/hits",
+
+"referer" : "https://dookeela.live/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "HITS MOVIES",
+
+"image" : "https://www.mncvision.tv/userfiles/image/channel/channel_169.png",
+
+"url" : "https://dookeela.live/live-tv/hits-movies",
+
+"referer" : "https://dookeela.live/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
 
 
 
