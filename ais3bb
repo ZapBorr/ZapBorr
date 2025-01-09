@@ -210,6 +210,205 @@
 
 },
 
+{
+
+"name" : "Disney Channel",
+
+"image" : "https://i.pinimg.com/736x/84/d2/2c/84d22cc4dab977cda173a3876159e2b0.jpg",
+
+"url" : "https://dookeela.live/live-tv/disney-channel",
+
+"referer" : "https://dookeela.live/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "Disney Junior",
+
+"image" : "https://i.pinimg.com/736x/fb/64/bc/fb64bc3e45223ce20bfee1a7b5e616a1.jpg",
+
+"url" : "https://dookeela.live/live-tv/disney-junior",
+
+"referer" : "https://dookeela.live/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "Boomerang",
+
+"image" : "https://i.pinimg.com/736x/ed/2f/e6/ed2fe6edadfbb4595ee0b88029b1747a.jpg",
+
+"url" : "https://dookeela.live/live-tv/boomerang",
+
+"referer" : "https://dookeela.live/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "Cartoon Network",
+
+"image" : "https://i.pinimg.com/736x/42/dc/6d/42dc6df904ee807fcbd9e060c1bf28ce.jpg",
+
+"url" : "https://dookeela.live/live-tv/cartoon-network",
+
+"referer" : "https://dookeela.live/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "Moonbug",
+
+"image" : "https://dookeela.live/uploads/1721687729.png",
+
+"url" : "https://dookeela.live/live-tv/moonbug",
+
+"referer" : "https://dookeela.live/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "Nickelodeon",
+
+"image" : "https://i.pinimg.com/736x/f5/b9/2d/f5b92dfed68fcef53bb9e16ad433846a.jpg",
+
+"url" : "https://dookeela.live/live-tv/nickelodeon",
+
+"referer" : "https://dookeela.live/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "Nick Jr.",
+
+"image" : "https://i.pinimg.com/736x/61/6b/0a/616b0a56c27242a31690f1b75ddb86ff.jpg",
+
+"url" : "https://dookeela.live/live-tv/nickjr",
+
+"referer" : "https://dookeela.live/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "CINEMAX",
+
+"image" : "https://www.mncvision.tv/userfiles/image/channel/channel_402.jpg",
+
+"url" : "https://dookeela.live/live-tv/cinemax",
+
+"referer" : "https://dookeela.live/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "สำรวจโลก",
+
+"image" : "https://dookeela.live/uploads/1705536821.png",
+
+"url" : "https://dookeela.live/live-tv/samrujlok",
+
+"referer" : "https://dookeela.live/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "Animal Show",
+
+"image" : "https://dookeela.live/uploads/1705537126.png",
+
+"url" : "https://dookeela.live/live-tv/animalshow",
+
+"referer" : "https://dookeela.live/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "MySci",
+
+"image" : "https://dookeela.live/uploads/1705536991.png",
+
+"url" : "https://dookeela.live/live-tv/mysci",
+
+"referer" : "https://dookeela.live/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+
 
 
 
