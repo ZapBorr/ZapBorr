@@ -161,7 +161,7 @@
 
 "name" : "True X-Zyte",
 
-"image" : "https://cms.dmpcdn.com/livetv/2024/04/10/5ecb9e30-f724-11ee-a17f-0795ff88f566_webp_original.webp",
+"image" : "http://tvsmagazine.com/images/channels/sm_034.jpg",
 
 "url" : "https://dookeela.live/live-tv/truex-zyte",
 
@@ -301,7 +301,185 @@
 
 },
 
+{
 
+"name" : "ROCK Action",
+
+"image" : "http://tvsmagazine.com/images/channels/sm_260.jpg",
+
+"url" : "https://dookeela.live/live-tv/rock-action",
+
+"referer" : "https://dookeela.live/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "ROCK ENTERTAINMENT",
+
+"image" : "http://tvsmagazine.com/images/channels/lrg_177.jpg",
+
+"url" : "https://dookeela.live/live-tv/rock-entertainment",
+
+"referer" : "https://dookeela.live/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "Asian Food Network",
+
+"image" : "http://tvsmagazine.com/images/channels/sm_214.jpg",
+
+"url" : "https://dookeela.live/live-tv/afn",
+
+"referer" : "https://dookeela.live/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "Food Network",
+
+"image" : "http://tvsmagazine.com/images/channels/sm_FNW.jpg",
+
+"url" : "https://dookeela.live/live-tv/foodnetwork",
+
+"referer" : "https://dookeela.live/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "BBC Lifestyle",
+
+"image" : "http://tvsmagazine.com/images/channels/sm_130.jpg",
+
+"url" : "https://dookeela.live/live-tv/bbc-lifestyle",
+
+"referer" : "https://dookeela.live/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "TLC",
+
+"image" : "http://tvsmagazine.com/images/channels/sm_068.jpg",
+
+"url" : "https://dookeela.live/live-tv/tlc",
+
+"referer" : "https://dookeela.live/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "Animal Planet",
+
+"image" : "http://tvsmagazine.com/images/channels/sm_024.jpg",
+
+"url" : "https://dookeela.live/live-tv/animal-planet",
+
+"referer" : "https://dookeela.live/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "Discovery",
+
+"image" : "http://tvsmagazine.com/images/channels/sm_008.jpg",
+
+"url" : "https://dookeela.live/live-tv/discovery",
+
+"referer" : "https://dookeela.live/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "Discovery Asia",
+
+"image" : "http://tvsmagazine.com/images/channels/sm_DHDW.jpg",
+
+"url" : "https://dookeela.live/live-tv/discovery-asia",
+
+"referer" : "https://dookeela.live/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "Discovery Asia",
+
+"image" : "http://tvsmagazine.com/images/channels/sm_DHDW.jpg",
+
+"url" : "https://dookeela.live/live-tv/discovery-asia",
+
+"referer" : "https://dookeela.live/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
 
 
 
