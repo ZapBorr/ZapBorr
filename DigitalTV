@@ -372,41 +372,8 @@
 
 },
 
-{
 
-"name" : "3BB Asian",
 
-"image" : "https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/3BBAsian.png",
-
-"url" : "https://dookeela.live/live-tv/3bbasian",
-
-"referer" : "https://dookeela.live/",
-
-"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-
-"desktop" : "true",
-
-"playInNatPlayer" : "true"
-
-},
-
-{
-
-"name" : "3BB Sports 1",
-
-"image" : "https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/3BBSportsOne.png",
-
-"url" : "https://dookeela.live/live-tv/3bbsports1",
-
-"referer" : "https://dookeela.live/",
-
-"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-
-"desktop" : "true",
-
-"playInNatPlayer" : "true"
-
-},
 
 ]
 
