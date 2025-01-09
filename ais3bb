@@ -14,9 +14,45 @@
 
 {
 
+"name" : "3BB Sports 1",
+
+"image" : "https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/3BBSportsOne.png",
+
+"url" : "https://dookeela.live/live-tv/3bbsports1",
+
+"referer" : "https://dookeela.live/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "3BB Asian",
+
+"image" : "https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/3BBAsian.png",
+
+"url" : "https://dookeela.live/live-tv/3bbasian",
+
+"referer" : "https://dookeela.live/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
 "name" : "HBO",
 
-"image" : "https://www.mncvision.tv/userfiles/image/channel/hbo.png",
+"image" : "https://i.pinimg.com/736x/50/3f/2b/503f2b646154acbb94e881e3cf4dc2f6.jpg",
 
 "url" : "https://dookeela.live/live-tv/hbo",
 
@@ -34,7 +70,7 @@
 
 "name" : "HBO Family",
 
-"image" : "https://www.mncvision.tv/userfiles/image/channel/hbo_family.png",
+"image" : "https://i.pinimg.com/736x/af/69/48/af6948d5eaa01665979dbde604210cdb.jpg",
 
 "url" : "https://dookeela.live/live-tv/hbo-family",
 
@@ -52,7 +88,7 @@
 
 "name" : "HBO Hits",
 
-"image" : "https://www.mncvision.tv/userfiles/image/channel/hbo_hits.png",
+"image" : "https://i.pinimg.com/736x/42/6e/e0/426ee0d88a2ee831b41275db40d49726.jpg",
 
 "url" : "https://dookeela.live/live-tv/hbo-hits",
 
@@ -88,7 +124,7 @@
 
 "name" : "HITS",
 
-"image" : "https://www.hitstv.com/assets/hits.png",
+"image" : "https://www.mncvision.tv/userfiles/image/channel/channel_160.jpg",
 
 "url" : "https://dookeela.live/live-tv/hits",
 
@@ -120,6 +156,59 @@
 
 },
 
+{
+
+"name" : "HITS NOW",
+
+"image" : "https://www.lyngsat.com/logo/tv/hh/hits-now-sg.png",
+
+"url" : "https://dookeela.live/live-tv/hitsnow",
+
+"referer" : "https://dookeela.live/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "Paramount Network",
+
+"image" : "https://i.pinimg.com/736x/59/27/1c/59271cd0ddda898b9bb328b2db4e54a8.jpg",
+
+"url" : "https://dookeela.live/live-tv/paramount-network",
+
+"referer" : "https://dookeela.live/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "Warner TV",
+
+"image" : "https://i.pinimg.com/736x/e0/fa/99/e0fa9969e48f22b661602dd103eeccf7.jpg",
+
+"url" : "https://dookeela.live/live-tv/warnertv",
+
+"referer" : "https://dookeela.live/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
 
 
 
