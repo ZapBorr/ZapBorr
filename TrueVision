@@ -177,6 +177,24 @@
 
 {
 
+"name" : "DreamWorks",
+
+"image" : "https://i.pinimg.com/736x/87/eb/b5/87ebb5f24a3b3a24fcd72a996df1e856.jpg",
+
+"url" : "https://dookeela.live/live-tv/dreamworks",
+
+"referer" : "https://dookeela.live/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
 "name" : "True Spark Play",
 
 "image" : "https://cms.dmpcdn.com/livetv/2024/01/16/cdd2cd90-b44d-11ee-bbdb-077300b4f5a1_webp_original.webp",
