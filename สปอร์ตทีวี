@@ -8,14 +8,14 @@
    "groups": [
 
 			{
-				"name": "บอลไทย",
+				"name": "ไทยลีก",
 				"image": "https://upload.wikimedia.org/wikipedia/th/thumb/2/28/Hilux_Revo_Thai_League_2021%E2%80%9322.png/250px-Hilux_Revo_Thai_League_2021%E2%80%9322.png",
 				"url": "https://raw.githubusercontent.com/ZapBorr/ZapBorr/main/BallThai",
 				"info": "โดย นุ",
 				"import": false},
 
 			{
-				"name": "พรีเมียร์ลีก อังกฤษ",
+				"name": "พรีเมียร์ลีก",
 				"image": "https://i0.wp.com/theesk.org/wp-content/uploads/2017/10/pl-logo-blog-premier-league_3758341.jpg?fit=192%2C192&ssl=1",
 				"url": "https://raw.githubusercontent.com/ZapBorr/ZapBorr/main/PremierLeague",
 				"info": "โดย นุ",
@@ -47,6 +47,14 @@
 				"name": "ทรูวิชั่น",
 				"image": "https://www.truevisions.info/wp-content/uploads/2020/10/logo-truevisions-04.png",
 				"url": "https://raw.githubusercontent.com/ZapBorr/ZapBorr/main/TrueVision",
+				"info": "โดย นุ",
+				"import": false},
+
+
+			{
+				"name": "กีฬาต่างประเทศ",
+				"image": "https://logowik.com/content/uploads/images/sports8897.jpg",
+				"url": "https://raw.githubusercontent.com/ZapBorr/ZapBorr/main/intersport",
 				"info": "โดย นุ",
 				"import": false},
 
