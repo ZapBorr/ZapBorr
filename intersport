@@ -1,0 +1,48 @@
+{
+ 
+"name" : "กีฬาต่างประเทศ",
+ 
+"author" : "โดย: นุ",
+ 
+"image" : "https://logowik.com/content/uploads/images/sports8897.jpg",
+ 
+"url" : "https://raw.githubusercontent.com/ZapBorr/ZapBorr/main/intersport",
+ 
+"stations" :
+ 
+[
+
+{
+
+"name" : "BALLTHAI 10",
+
+"image" : "https://cms.dmpcdn.com/livetv/2024/08/14/e249c340-5a16-11ef-a30f-0d36085b5b8b_webp_original.webp",
+
+"url" : "https://cdn1.googlecdnforstreaming.live/live/trueballthai10/playlist.m3u8",
+
+"referer" : "https://warpdooball.net/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]
+
+}
