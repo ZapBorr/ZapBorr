@@ -1,0 +1,194 @@
+{
+ 
+"name" : "สำรองบอล",
+ 
+"author" : "โดย: นุ",
+ 
+"image" : "https://www.getautismactive.com/wp-content/uploads/2021/01/Test-Logo-Circle-black-transparent.png",
+ 
+"url" : "https://raw.githubusercontent.com/ZapBorr/ZapBorr/main/testball",
+ 
+"stations" :
+ 
+[
+
+{
+
+"name" : "BALLTHAI 1",
+
+"image" : "https://cms.dmpcdn.com/livetv/2023/08/02/89262f60-30e1-11ee-b445-3703761d6f4d_webp_original.webp",
+
+"url" : "https://cdn1.googlecdnforstreaming.live/live/trueballthai1/playlist.m3u8",
+
+"referer" : "https://warpdooball.net/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "BALLTHAI 1 (168rich)",
+
+"image" : "https://cms.dmpcdn.com/livetv/2023/08/02/89262f60-30e1-11ee-b445-3703761d6f4d_webp_original.webp",
+
+"url" : "https://cdn2.aws-live-streaming.com/168rich/trueballthai1/playlist.m3u8",
+
+"referer" : "https://168rich.tv/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "BALLTHAI 1 (duball365)",
+
+"image" : "https://cms.dmpcdn.com/livetv/2023/08/02/89262f60-30e1-11ee-b445-3703761d6f4d_webp_original.webp",
+
+"url" : "https://cdn1.googlecdn.live/duball356/trueballthai1/playlist.m3u8",
+
+"referer" : "https://duball356.com/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "BALLTHAI 1 (vvipscore)",
+
+"image" : "https://cms.dmpcdn.com/livetv/2023/08/02/89262f60-30e1-11ee-b445-3703761d6f4d_webp_original.webp",
+
+"url" : "https://cdn2.googlecdnforstreaming.live/vvipscore/trueballthai1/playlist.m3u8",
+
+"referer" : "https://vvipscore.com/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "BALLTHAI 1 (zonedooball)",
+
+"image" : "https://cms.dmpcdn.com/livetv/2023/08/02/89262f60-30e1-11ee-b445-3703761d6f4d_webp_original.webp",
+
+"url" : "https://cdn2.googlecdnforstreaming.live/vvipscore/trueballthai1/playlist.m3u8",
+
+"referer" : "https://www.zonedooball.com/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "BALLTHAI 1 (เว็บดูบอลสด)",
+
+"image" : "https://cms.dmpcdn.com/livetv/2023/08/02/89262f60-30e1-11ee-b445-3703761d6f4d_webp_original.webp",
+
+"url" : "https://cdn1.googlecdn.live/wdbs/trueballthai1/playlist.m3u8",
+
+"referer" : "https://www.xn--l3caqb9cizw0iyc1d.com/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "BALLTHAI 1 (เว็บดูบอลสดฟรี)",
+
+"image" : "https://cms.dmpcdn.com/livetv/2023/08/02/89262f60-30e1-11ee-b445-3703761d6f4d_webp_original.webp",
+
+"url" : "https://cdn1.googlecdn.live/wdbsf/trueballthai1/playlist.m3u8",
+
+"referer" : "https://xn--l3caqb0aylm5a2a7gub1fxe.com/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "BALLTHAI 1 (thdooball)",
+
+"image" : "https://cms.dmpcdn.com/livetv/2023/08/02/89262f60-30e1-11ee-b445-3703761d6f4d_webp_original.webp",
+
+"url" : "https://cdn1.googlecdn.live/thdooball/trueballthai1/playlist.m3u8",
+
+"referer" : "https://thdooball.com/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "BALLTHAI 1 (thdooball)",
+
+"image" : "https://cms.dmpcdn.com/livetv/2023/08/02/89262f60-30e1-11ee-b445-3703761d6f4d_webp_original.webp",
+
+"url" : "https://cdn1.googlecdn.live/thdooball/trueballthai1/playlist.m3u8",
+
+"referer" : "https://thdooball.com/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]
+
+}
