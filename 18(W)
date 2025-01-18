@@ -120,6 +120,97 @@
 
 },
 
+{
+
+"name" : "START-094",
+
+"image" : "https://img3.javmost.com/images/START-094.webp",
+
+"url" : "https://cdn4.turboviplay.cc/data1/vnx9JaMg90NNIzUytusZ/vnx9JaMg90NNIzUytusZ.m3u8",
+
+"referer" : "https://www5.javmost.com/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "SDDE-733",
+
+"image" : "https://img3.javmost.com/images/SDDE-733.webp",
+
+"url" : "https://cdn4.turboviplay.cc/data1/66b0ecf46e31c/66b0ecf46e31c.m3u8",
+
+"referer" : "https://www5.javmost.com/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "SONE-436",
+
+"image" : "https://img3.javmost.com/images/SONE-436.webp",
+
+"url" : "https://cdn4.turboviplay.cc/data1/672d6cae179b6/672d6cae179b6.m3u8",
+
+"referer" : "https://www5.javmost.com/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "MIDV-699",
+
+"image" : "https://img3.javmost.com/images/MIDV-699.webp",
+
+"url" : "https://cdn4.turboviplay.cc/data2/j6cWG62Ldscnpk9UEI0S/j6cWG62Ldscnpk9UEI0S.m3u8",
+
+"referer" : "https://www5.javmost.com/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "MIDV-699",
+
+"image" : "https://img3.javmost.com/images/MIDV-699.webp",
+
+"url" : "https://cdn4.turboviplay.cc/data2/j6cWG62Ldscnpk9UEI0S/j6cWG62Ldscnpk9UEI0S.m3u8",
+
+"referer" : "https://www5.javmost.com/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+
 
 
 
