@@ -12,10 +12,28 @@
  
 [
 
+{
+
+"name" : "SOOP TH",
+
+"image" : "https://img2.pic.in.th/pic/imageseef7e2cacb6c14dc.png",
+
+"url" : "https://global-media.sooplive.com/live/soopth/master.m3u8",
+
+"referer" : "https://www.sooplive.com/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
 
 {
 
-"name" : "FPSThailand (Live only)",
+"name" : "FPSThailand",
 
 "image" : "https://yt3.googleusercontent.com/ytc/AIdro_l1fbVJ3QdJo2npZb8ZEbaf4TkMuMYFo6pp6wywZr3Tqbo=s900-c-k-c0x00ffffff-no-rj",
 
@@ -33,7 +51,7 @@
 
 {
 
-"name" : "LOL ESPORTS_TH (Live only)",
+"name" : "League of Legends",
 
 "image" : "https://brand.riotgames.com/static/76a299257f74a15e758228e391061602/b729e/06_Donts_07.webp",
 
@@ -48,6 +66,44 @@
 "playInNatPlayer" : "true"
 
 },
+
+{
+
+"name" : "LOL (Korea) ",
+
+"image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/League_of_Legends_Champions_Korea_logo.svg/2560px-League_of_Legends_Champions_Korea_logo.svg.png",
+
+"url" : "https://global-media.sooplive.com/live/lckkr/master.m3u8",
+
+"referer" : "https://www.sooplive.com/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "VALORANT",
+
+"image" : "https://i.pinimg.com/736x/b7/cf/62/b7cf62846ae6ae5e96b35cf9d5e05a7c.jpg",
+
+"url" : "https://global-media.sooplive.com/live/valorantth/master.m3u8",
+
+"referer" : "https://www.sooplive.com/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+
 
 
 
