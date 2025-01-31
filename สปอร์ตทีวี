@@ -70,6 +70,16 @@
 				"info": "โดย นุ",
 				"import": false},
 
+			{
+				"name": "ตารางแข่งขัน",
+				"image": "https://img5.pic.in.th/file/secure-sv1/Football-Match.jpg",
+				"url": "https://raw.githubusercontent.com/ZapBorr/ZapBorr/main/Match",
+				"info": "โดย นุ",
+				"import": false},
+
+
+
+
 
 ]
 }
