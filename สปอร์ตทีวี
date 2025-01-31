@@ -2,10 +2,18 @@
    "name": "ทีวี",
    "author": "โดย นุ",
    "url": "https://raw.githubusercontent.com/ZapBorr/ZapBorr/main/สปอร์ตทีวี",
-   "image": "https://www.iconpacks.net/icons/1/free-icon-broadcast-484.png",
+   "image": "https://img5.pic.in.th/file/secure-sv1/TV.jpg",
    "info": "....",
 		 
    "groups": [
+
+
+			{
+				"name": "ตารางแข่งขัน",
+				"image": "https://img5.pic.in.th/file/secure-sv1/Football-Match.jpg",
+				"url": "https://raw.githubusercontent.com/ZapBorr/ZapBorr/main/Match",
+				"info": "โดย นุ",
+				"import": false},
 
 			{
 				"name": "ไทยลีก",
@@ -67,13 +75,6 @@
 				"name": "อี สปอร์ต",
 				"image": "https://as1.ftcdn.net/v2/jpg/04/52/14/56/1000_F_452145633_nYUYdMdnHZ44sJbrgW9BfRcPbBIUxTXP.jpg",
 				"url": "https://raw.githubusercontent.com/ZapBorr/ZapBorr/main/Esport",
-				"info": "โดย นุ",
-				"import": false},
-
-			{
-				"name": "ตารางแข่งขัน",
-				"image": "https://img5.pic.in.th/file/secure-sv1/Football-Match.jpg",
-				"url": "https://raw.githubusercontent.com/ZapBorr/ZapBorr/main/Match",
 				"info": "โดย นุ",
 				"import": false},
 
