@@ -1,0 +1,76 @@
+{
+ 
+"name" : "Shopee Cup",
+ 
+"author" : "โดย: นุ",
+ 
+"image" : "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMGWKejKj77od95z_I8TGML0zCwu-bsCVNJODSwNQ96b2_Z9RCz85x505qwpLsVV2Oo0JhxJ9dXRLqlHvpJ4NkSgo9YghSRiSsoYY58d4cO5iMBAtQfABfTfGvejtyzXaQds1eyBuHChCT5BI0Ks8XokBdnRLRCFSBjvXMS7FFvTBLWOxQ7HUY-zELLaU/s16000/Shopee%20Cup-TM.png",
+ 
+"url" : "https://raw.githubusercontent.com/ZapBorr/ZapBorr/main/ShopeeCup",
+ 
+"stations" :
+ 
+[
+
+{
+
+"name" : "Shopee Cup 1",
+
+"image" : "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/ACC_ShopeeCup_CH1.png",
+
+"url" : "https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL001/HLS/TL001.m3u8",
+
+"referer" : "https://ais-vidnt.com/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "Shopee Cup 2",
+
+"image" : "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/ACC_ShopeeCup_CH2.png",
+
+"url" : "https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL002/HLS/TL002.m3u8",
+
+"referer" : "https://ais-vidnt.com/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+{
+
+"name" : "Shopee Cup 3",
+
+"image" : "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/ACC_ShopeeCup_CH3.png",
+
+"url" : "https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL003/HLS/TL003.m3u8",
+
+"referer" : "https://ais-vidnt.com/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+
+
+
+
+
+]
+
+}
