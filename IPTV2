@@ -1,0 +1,547 @@
+#EXTM3U
+
+#https://dl.dropbox.com/scl/fi/4fg4ib9dhtlaxv6f60ekm/new2025.mp4?rlkey=khn3mrgy9wnj2uxsq9cbprm3d&st=zbvupvah&dl=0
+#EXTINF:-1 group-logo="https://truevisions.co.th/static/adf92f48-db80-408a-8ebc-d3cc6339f32c.png" 
+#EXTINF:-1 group-title="1️⃣TRUEID" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/03/14/29e0bc80-e1d2-11ee-8422-eff39415c030_webp_original.webp",TRUEID SPORTS1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e46b07f9049b58b99ffc24a6bc2d813b:6cbd92a4efad354681576eb76c29b9bb
+https://cdn134.stm.trueid.net/p101daidrm/he003_multi_w_auto_wv_tidapp.smil/manifest_w978802312_qYXBwaWQ9dHJ1ZWlkJnR5cGU9bGl2ZSZ2aXNpdG9yPXdlYiZkcm09d3YzJnVpZD0yMDU2Njk0MyZkaWQ9UTFkNFZGRXRTRzF6VWxFMFdGRnZRVXRtT1hkcFYwZDVPVTlvTUZSbFYybyZzaWQ9NmJlODQwY2U0NCZydD0xNzM4NTYyNzA0JmRzPTg2NDAwJnRrPTdYLURGcndhZU1aRjBCWjBSWk9fQXA4WXViN0VZTU1oVG5LNkExd3pmR2s=.mpd
+
+#EXTINF:-1 group-title="1️⃣TRUEID" tvg-id="premier1.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2024/03/14/2a39b1f0-e1d2-11ee-bb63-0f515d43c6f8_webp_original.webp",TRUEID Sports2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=af23d7935f1b5f029cccbf7f45543813:142bc597c797bd6d0dc757ca73cfd16b
+https://cdn733.stm.trueid.net/p101drm/he004_multi_w_auto_wv_tidapp.smil/manifest_w804319191_qYXBwaWQ9dHJ1ZWlkJnR5cGU9bGl2ZSZ2aXNpdG9yPXdlYiZkcm09d3YzJnVpZD0yMDU2Njk0MyZkaWQ9UTFkNFZGRXRTRzF6VWxFMFdGRnZRVXRtT1hkcFYwZDVPVTlvTUZSbFYybyZzaWQ9Y2JmMTQzMGI2NyZydD0xNzM4NTYyNjc2JmRzPTg2NDAwJnRrPThKd0NCdkRTUXRFMGZlNkgyTXU5Z09uWi1ZS0xpTEVUS3pZTGdZWmhzNlU=.mpd
+
+
+
+#EXTINF:-1 group-logo="https://ais-s.ais-vidnt.com/ais/play/origin/VOD/images/XMAS2024_IconLiveSports.png" 
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/ACC_ShopeeCup_CH1.png" group-title="1️⃣LIVE EVENT",Live 1
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL001/HLS/TL001.m3u8
+
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/ACC_ShopeeCup_CH2.png" group-title="1️⃣LIVE EVENT",Live 2
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL002/HLS/TL002.m3u8
+
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/ACC_ShopeeCup_CH3.png" group-title="1️⃣LIVE EVENT",Live 3
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL003/HLS/TL003.m3u8
+
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/VOD/Poster/08_Dec_TV-Banner_Asean-Cup_02_1920x1080.jpg" group-title="1️⃣LIVE EVENT",Live 1
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/904/904.mpd
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/HARBIN_2025_1.png" group-title="1️⃣TRUEID&AISPLAY",Live 2
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL002/HLS/TL002.m3u8
+
+
+#EXTINF:-1 group-logo="https://ais-s.ais-vidnt.com/ais/play/origin/VOD/images/XMAS2024_IconSports.png" 
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/live.gif" group-title="1️⃣TRUEID&AISPLAY",EPL01
+https://cdn-stream.lnwza007.com/ballmun/sd1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/live.gif" group-title="1️⃣TRUEID&AISPLAY",EPL1 EN
+http://202.62.56.28:8080/nl.m3u8?id=1061
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/live.gif" group-title="1️⃣TRUEID&AISPLAY",EPL03
+http://202.62.56.28:8080/nl.m3u8?id=1050
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/live.gif" group-title="1️⃣TRUEID&AISPLAY",FOX
+http://202.62.56.28:8080/nl.m3u8?id=1063
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/live.gif" group-title="1️⃣TRUEID&AISPLAY",EPL05
+http://202.62.56.28:8080/nl.m3u8?id=1065
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/live.gif" group-title="1️⃣TRUEID&AISPLAY",EPL06
+https://cdn-stream.lnwza007.com/ballmun/sd2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/live.gif" group-title="1️⃣TRUEID&AISPLAY",EPL07
+http://202.62.56.28:8080/nl.m3u8?id=1073
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/live.gif" group-title="1️⃣TRUEID&AISPLAY",EPL08
+https://cdn-stream.lnwza007.com/ballmun/sd3/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/live.gif" group-title="1️⃣TRUEID&AISPLAY",EPL09
+http://202.62.56.28:8080/nl.m3u8?id=1063
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/live.gif" group-title="1️⃣TRUEID&AISPLAY",EPL010
+https://cdn-stream.lnwza007.com/ballmun/sd4/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/live.gif" group-title="1️⃣TRUEID&AISPLAY",EPL08
+https://cdn-stream.lnwza007.com/ballmun/sd5/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/live.gif" group-title="1️⃣TRUEID&AISPLAY",EPL09
+https://cdn-stream.lnwza007.com/ballmun/sd6/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/live.gif" group-title="1️⃣TRUEID&AISPLAY",EPL10
+https://cdn-stream.lnwza007.com/ballmun/sd7/chunks.m3u8
+XTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/live.gif" group-title="1️⃣TRUEID&AISPLAY",EPL011
+https://cdn-stream.lnwza007.com/ballmun/sd8/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/live.gif" group-title="1️⃣TRUEID&AISPLAY",EPL12
+https://iptv-th.com/play/cgi3Vu4KHTlfKImhvoBfMN1CJwmMkHrixFqMRavOpcE/m3u8
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/live.gif" group-title="1️⃣TRUEID&AISPLAY",EPL13
+https://iptv-th.com/play/cgi3Vu4KHTlfKImhvoBfMMiL7HKdN4O_CHAQyBkz7gg/m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//301_SportsOne.png" group-title="📺 PREMIUM IPTV", 3BB SPORTS One
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d153e515a3ec465db2d812275d254d3f:808b83fd09be3a6c95fdd322379e068b
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0190/DASH/V0190.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=1c6a2fd62e7b72b814b574eda6e9a2fe&chunkHttps=true&tmid=B0003&tpbk=LSns7pvhCfNGcR6Y&rrt=1738562618&tmod=rfk&rsid=641cc446-d69a-47f6-a541-413102a3cc14&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=91036df07abea77e7ec1a62aa4296220&origin=anevia&tfa=f0-fc&tttl=1738649018
+
+
+#EXTINF:-1 tvg-logo="https://www.fileinw.com/postor/20240418192615Bein1.jpg" group-title="📺 PREMIUM IPTV",BeIN1  
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/S0001/DASH/S0001.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=1c6a2fd62e7b72b814b574eda6e9a2fe&chunkHttps=true&tmid=B0003&tpbk=LSns7pvhCfNGcR6Y&rrt=1738562618&tmod=rfk&rsid=641cc446-d69a-47f6-a541-413102a3cc14&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=91036df07abea77e7ec1a62aa4296220&origin=anevia&tfa=f0-fc&tttl=1738649018
+ 
+#EXTINF:-1 tvg-logo="https://www.fileinw.com/postor/20240418192624Bein2.jpg" group-title="📺 PREMIUM IPTV",BeIN2  
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=30c11587a1686b72f115f34b0bf1c383:1e3a6af2408cdd78347b722728560c3b
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/S0002/DASH/S0002.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=1c6a2fd62e7b72b814b574eda6e9a2fe&chunkHttps=true&tmid=B0003&tpbk=LSns7pvhCfNGcR6Y&rrt=1738562618&tmod=rfk&rsid=641cc446-d69a-47f6-a541-413102a3cc14&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=91036df07abea77e7ec1a62aa4296220&origin=anevia&tfa=f0-fc&tttl=1738649018
+ 
+#EXTINF:-1 tvg-logo="https://www.fileinw.com/postor/20240418192653Bein3.jpg" group-title="📺 PREMIUM IPTV",BeIN3  
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/S0003/DASH/S0003.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=1c6a2fd62e7b72b814b574eda6e9a2fe&chunkHttps=true&tmid=B0003&tpbk=LSns7pvhCfNGcR6Y&rrt=1738562618&tmod=rfk&rsid=641cc446-d69a-47f6-a541-413102a3cc14&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=91036df07abea77e7ec1a62aa4296220&origin=anevia&tfa=f0-fc&tttl=1738649018
+ 
+#EXTINF:-1 tvg-logo="https://www.fileinw.com/postor/20240418192706Bein4.jpg" group-title="📺 PREMIUM IPTV",BeIN4  
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cb419fa5f5498e2c6cbc39363248ddd7:b5853b51f2060025a822e62973154556
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/S0004/DASH/S0004.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=1c6a2fd62e7b72b814b574eda6e9a2fe&chunkHttps=true&tmid=B0003&tpbk=LSns7pvhCfNGcR6Y&rrt=1738562618&tmod=rfk&rsid=641cc446-d69a-47f6-a541-413102a3cc14&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=91036df07abea77e7ec1a62aa4296220&origin=anevia&tfa=f0-fc&tttl=1738649018
+
+#EXTINF:-1 tvg-logo="https://www.fileinw.com/postor/20240418192717Bein5.jpg" group-title="📺 PREMIUM IPTV",BeIN5  
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3a165f923cd49e616f173fc6c341cc56:4cb96186d69f1a63c40218812a6f6910
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/S0005/DASH/S0005.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=1c6a2fd62e7b72b814b574eda6e9a2fe&chunkHttps=true&tmid=B0003&tpbk=LSns7pvhCfNGcR6Y&rrt=1738562618&tmod=rfk&rsid=641cc446-d69a-47f6-a541-413102a3cc14&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=91036df07abea77e7ec1a62aa4296220&origin=anevia&tfa=f0-fc&tttl=1738649018
+
+#EXTINF:-1 tvg-logo="https://www.fileinw.com/postor/20240418192728Bein6.jpg" group-title="📺 PREMIUM IPTV",BeIN6  
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ceac4607562049abb9d1b0309d9cd6f3:d396d277a364fab00d0193d25b700847
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/S0006/DASH/S0006.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=1c6a2fd62e7b72b814b574eda6e9a2fe&chunkHttps=true&tmid=B0003&tpbk=LSns7pvhCfNGcR6Y&rrt=1738562618&tmod=rfk&rsid=641cc446-d69a-47f6-a541-413102a3cc14&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=91036df07abea77e7ec1a62aa4296220&origin=anevia&tfa=f0-fc&tttl=1738649018
+ 
+#EXTINF:-1 tvg-logo="https://www.fileinw.com/postor/20240418195754Bein7.jpg" group-title="📺 PREMIUM IPTV",BeIN7  
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=94a28a75b3891e92a97efbe76f941095:7b39cd0e318ee481b98c36a125c540fb
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/S0007/DASH/S0007.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=1c6a2fd62e7b72b814b574eda6e9a2fe&chunkHttps=true&tmid=B0003&tpbk=LSns7pvhCfNGcR6Y&rrt=1738562618&tmod=rfk&rsid=641cc446-d69a-47f6-a541-413102a3cc14&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=91036df07abea77e7ec1a62aa4296220&origin=anevia&tfa=f0-fc&tttl=1738649018
+
+
+
+
+#EXTINF:-1 group-logo="https://demo-live.siamzeed.com/images/logo-siamzeed.png"     
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/premier-5-backup.png" group-title="2️⃣เครดิต SIAMZEED",สำรอง True Premier Football HD 5 (2)
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
+https://oral.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/premier-5-backup.png" group-title="2️⃣เครดิต SIAMZEED",สำรอง True Premier Football HD 5
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
+https://switch.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/premier-4-backup.png" group-title="2️⃣เครดิต SIAMZEED",สำรอง True Premier Football HD 4 (2)
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
+https://oral.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/premier-4-backup.png" group-title="2️⃣เครดิต SIAMZEED",สำรอง True Premier Football HD 4
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
+https://switch.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/premier-3-backup.png" group-title="2️⃣เครดิต SIAMZEED",สำรอง True Premier Football HD 3 (2)
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
+https://oral.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/premier-3-backup.png" group-title="2️⃣เครดิต SIAMZEED",สำรอง True Premier Football HD 3
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
+https://switch.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/premier-2-backup.png" group-title="2️⃣เครดิต SIAMZEED",สำรอง True Premier Football HD 2 (2)
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
+https://oral.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/premier-2-backup.png" group-title="2️⃣เครดิต SIAMZEED",สำรอง True Premier Football HD 2
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
+https://switch.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/premier-1-backup.png" group-title="2️⃣เครดิต SIAMZEED",สำรอง True Premier Football HD 1 (2)
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
+https://oral.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/premier-1-backup.png" group-title="2️⃣เครดิต SIAMZEED",สำรอง True Premier Football HD 1
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
+https://switch.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/dhYruZGT8FK0IhTPasplhSjV1hh1EqVtv-station-th-bein-sports-3-1079backup.png" group-title="2️⃣เครดิต SIAMZEED",สำรอง beIN Sports 3 Thailand (2)
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
+https://oral.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-7/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/dhYruZGT8FK0IhTPasplhSjV1hh1EqVtv-station-th-bein-sports-3-1079backup.png" group-title="2️⃣เครดิต SIAMZEED",สำรอง beIN Sports 3 Thailand
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
+https://switch.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-7/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/0rp3HnvgY5kT0Ru9ImsRMRj5dodjYvYa1077backup.png" group-title="2️⃣เครดิต SIAMZEED",สำรอง beIN Sports 1 Thailand (2)
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
+https://oral.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/0rp3HnvgY5kT0Ru9ImsRMRj5dodjYvYa1077backup.png" group-title="2️⃣เครดิต SIAMZEED",สำรอง beIN Sports 1 Thailand
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
+https://switch.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/23CLR3ORtMETYocAo3JCE7YzHT6Q4CCtrue_tennis.png" group-title="2️⃣เครดิต SIAMZEED",True Tennis
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
+https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/true-tennis/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/G4JHj2E6chFdYDk7tGNDXaPCrdTQDXZtrue_sport_hd3.png" group-title="2️⃣เครดิต SIAMZEED",True Sport HD 3
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
+https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-10/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/zjsEH7rW4Iwd7Mf15GdOjXHmZyRmPE7true_sport_hd2.png" group-title="2️⃣เครดิต SIAMZEED",True Sport HD 2
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
+https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-9/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/zOBltAxdpaa8zT4UCfoDbkaWuRyHJ2Ctrue_sport_hd.png" group-title="2️⃣เครดิต SIAMZEED",True Sport HD 1
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
+https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-8/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/huCgcxvqLVccZTiFE3KOicWmCB8v7VJtv-station-true-sport-7-1076backup.png" group-title="2️⃣เครดิต SIAMZEED",สำรอง True Sport 7 (2)
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
+https://switch.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-12/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/huCgcxvqLVccZTiFE3KOicWmCB8v7VJtv-station-true-sport-7-1076backup.png" group-title="2️⃣เครดิต SIAMZEED",สำรอง True Sport 7
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
+https://oral.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-12/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/cOtTtxtRU37zX1GSYdsDl9CSUAJ0pkstv-station-true-sport-5-1074backup.png" group-title="2️⃣เครดิต SIAMZEED",สำรอง True Sport 5 (2)
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
+https://switch.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-11/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/cOtTtxtRU37zX1GSYdsDl9CSUAJ0pkstv-station-true-sport-5-1074backup.png" group-title="2️⃣เครดิต SIAMZEED",สำรอง True Sport 5
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
+https://oral.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-11/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/iQTBiWXYkO8BhDkAkM4BOSEw2IQFRfltv-station-true-sport-3-1072backup.png" group-title="2️⃣เครดิต SIAMZEED",สำรอง True Sport 3 (2)
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
+https://switch.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-10/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/iQTBiWXYkO8BhDkAkM4BOSEw2IQFRfltv-station-true-sport-3-1072backup.png" group-title="2️⃣เครดิต SIAMZEED",สำรอง True Sport 3
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
+https://oral.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-10/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/HOP6z5sFui1bpc5oZ9WL8H45g5yhekxtv-station-true-sport-2-1071backup.png" group-title="2️⃣เครดิต SIAMZEED",สำรอง True Sport 2 (2)
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
+https://switch.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-9/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/HOP6z5sFui1bpc5oZ9WL8H45g5yhekxtv-station-true-sport-2-1071backup.png" group-title="2️⃣เครดิต SIAMZEED",สำรอง True Sport 2
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
+https://oral.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-9/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/huCgcxvqLVccZTiFE3KOicWmCB8v7VJtv-station-true-sport-7-1076.png" group-title="2️⃣เครดิต SIAMZEED",True Sport 7
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
+https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-12/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/cOtTtxtRU37zX1GSYdsDl9CSUAJ0pkstv-station-true-sport-5-1074.png" group-title="2️⃣เครดิต SIAMZEED",True Sport 5
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
+https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-11/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/iQTBiWXYkO8BhDkAkM4BOSEw2IQFRfltv-station-true-sport-3-1072.png" group-title="2️⃣เครดิต SIAMZEED",True Sport 3
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
+https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-10/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/HOP6z5sFui1bpc5oZ9WL8H45g5yhekxtv-station-true-sport-2-1071.png" group-title="2️⃣เครดิต SIAMZEED",True Sport 2
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
+https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-9/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/lU31HrjVOMsrvGp7AVNSvQTX1JleH8ntv-station-true-premier-football-5-1822.png" group-title="2️⃣เครดิต SIAMZEED",True Premier Football HD 5
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
+https://dolive.thaim3u.com:443/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/w3dj8zkTukWC49JZSm1kzXqIa3lDljitv-station-true-premier-football-4-1821.png" group-title="2️⃣เครดิต SIAMZEED",True Premier Football HD 4
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
+https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/Nm0iqmsKCLZBxlYShlSp702TjLUpEFkTrue_Premier_Football_HD_3.png" group-title="2️⃣เครดิต SIAMZEED",True Premier Football HD 3
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
+https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/8cdpTAZzt5KNu2QcIpOSJbKsBZHCXfHa1819.png" group-title="2️⃣เครดิต SIAMZEED",True Premier Football HD 2
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
+https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/FxKl1hWHCcaRmo9ZOIiE2HnUJygUQCNTrue_Premier_Football_HD_1.png" group-title="2️⃣เครดิต SIAMZEED",True Premier Football HD 1
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
+https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/s2BUaO31zy05hVTHANoFfrvUvkVcHdktrue-nba.png" group-title="2️⃣เครดิต SIAMZEED",True NBA
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
+https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/true-nba/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/0RGV8VMgXBuGIyl2wEwkYWNpHDRpfk3spotv2.png" group-title="2️⃣เครดิต SIAMZEED",SPOTV 2
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
+https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/true-spotv-2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/71FfEfS1Zp7fLJ4TW4luDauTLQSlKZxspotv1.png" group-title="2️⃣เครดิต SIAMZEED",SPOTV 1
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
+https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/true-spotv-1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/OryzVdJNfW6fr43TmLpQIIdooe1JamGnfl.png" group-title="2️⃣เครดิต SIAMZEED",NFL
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
+https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/nfl-true/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/dhYruZGT8FK0IhTPasplhSjV1hh1EqVtv-station-th-bein-sports-3-1079.png" group-title="2️⃣เครดิต SIAMZEED",beIN Sports 3 Thailand
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
+https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-7/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/0rp3HnvgY5kT0Ru9ImsRMRj5dodjYvYa1077.png" group-title="2️⃣เครดิต SIAMZEED",beIN Sports 1 Thailand
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
+https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/pBivjaUbfo4dNnCbcyFpXPE1fL9YIV0ais4.png" group-title="2️⃣เครดิต SIAMZEED",AIS PLAY 4
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
+https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/football-play-4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/pBivjaUbfo4dNnCbcyFpXPE1fL9YIV0ais4.png" group-title="2️⃣เครดิต SIAMZEED",AIS PLAY 4
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
+https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/football-play-4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/vvN9KtCxQiePrrD3JZ1w4zau0TtwKgyais3.png" group-title="2️⃣เครดิต SIAMZEED",AIS PLAY 3
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
+https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/football-play-3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/vvN9KtCxQiePrrD3JZ1w4zau0TtwKgyais3.png" group-title="2️⃣เครดิต SIAMZEED",AIS PLAY 3
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
+https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/football-play-3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/4uJiK3DhZb82mr6lq8Cl4dv3oKiiZCKais2.png" group-title="2️⃣เครดิต SIAMZEED",AIS PLAY 2
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
+https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/football-play-2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/4uJiK3DhZb82mr6lq8Cl4dv3oKiiZCKais2.png" group-title="2️⃣เครดิต SIAMZEED",AIS PLAY 2
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
+https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/football-play-2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/RziUDnIsuVooOkZ7IdtFPb4ro94yY4iais1.png" group-title="2️⃣เครดิต SIAMZEED",AIS PLAY 1
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
+https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/football-play-1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/RziUDnIsuVooOkZ7IdtFPb4ro94yY4iais1.png" group-title="2️⃣เครดิต SIAMZEED",AIS PLAY 1
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/at
+
+
+
+
+#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/tpf1.jpg" group-title="3️⃣เครดิต DOOBALL2YOU",TRUE PREMIER FOOTBALL HD 1
+#EXTVLCOPT:http-referrer=https://www.andaman888th.com/
+https://cdnsv1.bunnycdncloud.com/andaman888th/tpf1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/tpf2.jpg" group-title="3️⃣เครดิต DOOBALL2YOU",TRUE PREMIER FOOTBALL HD 2
+#EXTVLCOPT:http-referrer=https://www.andaman888th.com/
+https://cdnsv1.bunnycdncloud.com/andaman888th/tpf2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/tpf3.jpg" group-title="3️⃣เครดิต DOOBALL2YOU",TRUE PREMIER FOOTBALL HD 3
+#EXTVLCOPT:http-referrer=https://www.andaman888th.com/
+https://cdnsv1.bunnycdncloud.com/andaman888th/tpf3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/tpf4.jpg" group-title="3️⃣เครดิต DOOBALL2YOU",TRUE PREMIER FOOTBALL HD 4
+#EXTVLCOPT:http-referrer=https://www.andaman888th.com/
+https://cdnsv1.bunnycdncloud.com/andaman888th/tpf4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/tpf5.jpg" group-title="3️⃣เครดิต DOOBALL2YOU",TRUE PREMIER FOOTBALL HD 5
+#EXTVLCOPT:http-referrer=https://www.andaman888th.com/
+https://cdnsv1.bunnycdncloud.com/andaman888th/tpf5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/truesport1.jpg" group-title="3️⃣เครดิต DOOBALL2YOU",TRUE SPORT 1
+#EXTVLCOPT:http-referrer=https://www.andaman888th.com/
+https://cdnsv1.bunnycdncloud.com/andaman888th/truesporthd1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/truesport2.jpg" group-title="3️⃣เครดิต DOOBALL2YOU",TRUE SPORT 2
+#EXTVLCOPT:http-referrer=https://www.andaman888th.com/
+https://cdnsv1.bunnycdncloud.com/andaman888th/truesporthd2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/truesport3.jpg" group-title="3️⃣เครดิต DOOBALL2YOU",TRUE SPORT 3
+#EXTVLCOPT:http-referrer=https://www.andaman888th.com/
+https://cdnsv1.bunnycdncloud.com/andaman888th/truesporthd3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/truesport5.jpg" group-title="3️⃣เครดิต DOOBALL2YOU",TRUE SPORT 5
+#EXTVLCOPT:http-referrer=https://www.andaman888th.com/
+https://cdnsv1.bunnycdncloud.com/andaman888th/truesportsd5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/truesport7.jpg" group-title="3️⃣เครดิต DOOBALL2YOU",TRUE SPORT 7
+#EXTVLCOPT:http-referrer=https://www.andaman888th.com/
+https://cdnsv1.bunnycdncloud.com/andaman888th/truesportsd5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/bein1.jpg" group-title="3️⃣เครดิต DOOBALL2YOU",beIN SPORT 1
+#EXTVLCOPT:http-referrer=https://www.andaman888th.com/ดูบอลออนไลน์/beinsport1/
+https://cdnsv1.bunnycdncloud.com/andaman888th/bein1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/bein3.jpg" group-title="3️⃣เครดิต DOOBALL2YOU",beIN SPORT 3
+#EXTVLCOPT:http-referrer=https://www.andaman888th.com/ดูบอลออนไลน์/beinsport1/
+https://cdnsv1.bunnycdncloud.com/andaman888th/bein3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dooballplus.live/wp-content/uploads/2023/11/bein4.png" group-title="3️⃣เครดิต DOOBALL2YOU",beIN SPORT 4
+#EXTVLCOPT:http-referrer=https://www.andaman888th.com/ดูบอลออนไลน์/beinsport1/
+https://cdnsv1.bunnycdncloud.com/andaman888th/bein4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://dooballplus.live/wp-content/uploads/2023/11/bein5.png" group-title="3️⃣เครดิต DOOBALL2YOU",beIN SPORT 5
+#EXTVLCOPT:http-referrer=https://www.andaman888th.com/ดูบอลออนไลน์/beinsport1/
+https://cdnsv1.bunnycdncloud.com/andaman888th/bein5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dooballplus.live/wp-content/uploads/2023/11/bein6.png" group-title="3️⃣เครดิต DOOBALL2YOU",beIN SPORT 6
+#EXTVLCOPT:http-referrer=https://www.andaman888th.com/ดูบอลออนไลน์/beinsport1/
+https://cdnsv1.bunnycdncloud.com/andaman888th/bein6/playlist.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-logo="https://fw4free.com/images/logo8.png" 
+#EXTINF:-1 tvg-logo="https://fw4free.com/channel/ch1.webp" group-title="4️⃣เครดิต *INWIPTV",EPL 1
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://fw4free.inwstream.com/fw4free/ch1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://fw4free.com/channel/ch2.webp" group-title="4️⃣เครดิต *INWIPTV", EPL 2
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://fw4free.inwstream.com/fw4free/ch2.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://fw4free.com/channel/ch3.webp" group-title="4️⃣เครดิต *INWIPTV", EPL 3
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://fw4free.inwstream.com/fw4free/ch3.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://fw4free.com/channel/ch4.webp" group-title="4️⃣เครดิต *INWIPTV", EPL 4
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://fw4free.inwstream.com/fw4free/ch4.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://fw4free.com/channel/ch5.webp" group-title="4️⃣เครดิต *INWIPTV", EPL 5
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://fw4free.inwstream.com/fw4free/ch5.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://fw4free.com/channel/ch6.png" group-title="4️⃣เครดิต *INWIPTV", BEIN TH 1
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://fw4free.inwstream.com/fw4free/bein1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://fw4free.com/channel/ch7.png" group-title="4️⃣เครดิต *INWIPTV", BEIN TH 2
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://fw4free.inwstream.com/fw4free/bein2.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://fw4free.com/channel/ch8.png" group-title="4️⃣เครดิต *INWIPTV", BEIN TH 3
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://fw4free.inwstream.com/fw4free/bein3.stream/playlist.m3u8
+
+
+
+#EXTINF:-1 group-logo="https://dookeela.live/images/logo.png" 
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1720429672.png" group-title="5️⃣เครดิต *DOOKEELA",3BB Sports 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=678bbba596584ad895d2923fb0255e82:c55471086c824112b217743a31abdf8f
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/401/401.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664499665.png" group-title="5️⃣เครดิต *DOOKEELA",True Premier Football 1
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/epl1_sd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664499673.png" group-title="5️⃣เครดิต *DOOKEELA",True Premier Football 2
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/epl2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664499681.png" group-title="5️⃣เครดิต *DOOKEELA",True Premier Football 3
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/epl3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664499692.png" group-title="5️⃣เครดิต *DOOKEELA",True Premier Football 4
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/epl4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664499700.png" group-title="5️⃣เครดิต *DOOKEELA",True Premier Football 5
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/epl5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1717257614.png" group-title="5️⃣เครดิต *DOOKEELA",True Tennis
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/truetennis/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664802455.png" group-title="5️⃣เครดิต *DOOKEELA",True Sports 1
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/tsp1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664499966.png" group-title="5️⃣เครดิต *DOOKEELA",True Sports 2
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/tsp2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664802480.png" group-title="5️⃣เครดิต *DOOKEELA",True Sports 3
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/tsp3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664847910.png" group-title="5️⃣เครดิต *DOOKEELA",TRUESPORTS 5
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/tsp5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664847921.png" group-title="5️⃣เครดิต *DOOKEELA",TRUESPORTS 7
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/tsp7/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664500365.png" group-title="5️⃣เครดิต *DOOKEELA",บีอินสปอตส์ 1
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/bein1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1690843424.png" group-title="5️⃣เครดิต *DOOKEELA",บีอินสปอตส์ 2
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/bein2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1663980670.png" group-title="5️⃣เครดิต *DOOKEELA",บีอินสปอตส์ 3
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/bein3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1692816640.png" group-title="5️⃣เครดิต *DOOKEELA",บีอินสปอตส์ 4
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/bein4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1693290376.png" group-title="5️⃣เครดิต *DOOKEELA",บีอินสปอตส์ 5
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/bein5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1694719513.png" group-title="5️⃣เครดิต *DOOKEELA",บีอินสปอตส์ 6
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/bein6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1694719622.png" group-title="5️⃣เครดิต *DOOKEELA",บีอินสปอตส์ 7
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/bein7/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1724241278.png" group-title="5️⃣เครดิต *DOOKEELA",บีอินสปอตส์ 8
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/bein8/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1724241287.png" group-title="5️⃣เครดิต *DOOKEELA",บีอินสปอตส์ 9
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/bein9/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1724346113.png" group-title="5️⃣เครดิต *DOOKEELA",บีอินสปอตส์ 10
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/bein10/playlist.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjDjebUYvgtziU6LmEr2AHji5P5gyXaoDHhw&s" 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5kBhWq9/ballthai.png" group-title="6️⃣ ทรูไทยลีก",True Ballthai 1
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:http-referrer=https://www.andaman888th.com/
+https://cdnsv1.bunnycdncloud.com/andaman888th/ballthai1/playlist.m3u8
+#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjDjebUYvgtziU6LmEr2AHji5P5gyXaoDHhw&s" 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5kBhWq9/ballthai.png" group-title="6️⃣ ทรูไทยลีก",True Ballthai 1
+https://cdn-la2.aws-stream.com/ondemand/od3/trueballthai1/index.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1691444816.png" group-title="6️⃣ ทรูไทยลีก",True Ballthai 2
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:http-referrer=https://www.andaman888th.com/
+https://cdnsv1.bunnycdncloud.com/andaman888th/ballthai2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1691444816.png" group-title="6️⃣ ทรูไทยลีก",True Ballthai 2
+https://cdn-la2.aws-stream.com/ondemand/od3/trueballthai2/index.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1691444826.png" group-title="6️⃣ ทรูไทยลีก",True Ballthai 3
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:http-referrer=https://www.andaman888th.com/
+https://cdnsv1.bunnycdncloud.com/andaman888th/ballthai3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1691444826.png" group-title="6️⃣ ทรูไทยลีก",True Ballthai 3
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://cdn-la2.aws-stream.com/ondemand/od3/trueballthai3/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tVSc9B6/thai.png" group-title="6️⃣ ทรูไทยลีก",True Ballthai 4
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:http-referrer=https://www.andaman888th.com/
+https://cdnsv1.bunnycdncloud.com/andaman888th/ballthai4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://playtvthai.github.io/m3u8/ballthai5.png" group-title="6️⃣ ทรูไทยลีก",True Ballthai 5
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn-la2.aws-stream.com/ondemand/od3/trueballthai4/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tVSc9B6/thai.png" group-title="6️⃣ ทรูไทยลีก",True Ballthai 6
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn-la2.aws-stream.com/ondemand/od3/trueballthai6/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tVSc9B6/thai.png" group-title="6️⃣ ทรูไทยลีก",True Ballthai 7
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn-la2.aws-stream.com/ondemand/od3/trueballthai7/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tVSc9B6/thai.png" group-title="6️⃣ ทรูไทยลีก",True Ballthai 8
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn-la2.aws-stream.com/ondemand/od3/trueballtha8/index.m3u8
+#EXTINF:-1 tvg-logo="https://playtvthai.github.io/m3u8/ballthai10.png" group-title="6️⃣ ทรูไทยลีก",True Ballthai 9
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn-la2.aws-stream.com/ondemand/od3/trueballtha9/index.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 group-logo="https://api.rentm3u8.com/images/png/th-epl1.png" 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://api.rentm3u8.com/images/png/th-epl1.png" group-title="8️⃣ DOOBALL66",epl1
+https://playtvthai.github.io/m3u8/sports/epl1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://api.rentm3u8.com/images/png/th-epl1.png" group-title="8️⃣ DOOBALL66",epl1b
+https://live444.xyz/stream/1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://api.rentm3u8.com/images/png/th-epl2.png" group-title="8️⃣ DOOBALL66",epl2
+https://playtvthai.github.io/m3u8/sports/epl2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://api.rentm3u8.com/images/png/th-epl2.png" group-title="8️⃣ DOOBALL66",epl2b
+https://live444.xyz/stream/2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://api.rentm3u8.com/images/png/th-epl3.png" group-title="8️⃣ DOOBALL66",epl3
+https://playtvthai.github.io/m3u8/sports/epl3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://api.rentm3u8.com/images/png/th-epl3.png" group-title="8️⃣ DOOBALL66",epl3
+https://live444.xyz/stream/3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://api.rentm3u8.com/images/png/th-epl4.png" group-title="8️⃣ DOOBALL66",epl4
+https://playtvthai.github.io/m3u8/sports/epl4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://api.rentm3u8.com/images/png/th-epl4.png" group-title="8️⃣ DOOBALL66",epl4b
+https://live444.xyz/stream/4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://api.rentm3u8.com/images/png/th-epl5.png" group-title="8️⃣ DOOBALL66",epl5
+https://live444.xyz/stream/5/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://api.rentm3u8.com/images/png/th-epl5.png" group-title="8️⃣ DOOBALL66",epl5b
+https://playtvthai.github.io/m3u8/sports/epl5.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://api.rentm3u8.com/images/png/hd-tsport1.png" group-title="8️⃣ DOOBALL66", TSP1 
+https://playtvthai.github.io/m3u8/sports/tsp1.m3u8
+https://live444.xyz/stream/9/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://api.rentm3u8.com/images/png/hd-tsport2.png" group-title="8️⃣ DOOBALL66",Tsp2
+https://playtvthai.github.io/m3u8/sports/tsp2b.m3u8
+https://live444.xyz/stream/10/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://api.rentm3u8.com/images/png/hd-tsport3.png" group-title="8️⃣ DOOBALL66",Tsp3
+https://playtvthai.github.io/m3u8/sports/tsp3b.m3u8
+https://live444.xyz/stream/11/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://api.rentm3u8.com/images/png/sd-tsport5.png" group-title="8️⃣ DOOBALL66",tsp5
+https://playtvthai.github.io/m3u8/sports/tsp5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://api.rentm3u8.com/images/png/sd-tsport7.png" group-title="8️⃣ DOOBALL66",tsp7
+https://playtvthai.github.io/m3u8/sports/tsp7.m3u8
+
+
+
+
+
+
