@@ -126,9 +126,9 @@
 
 "image" : "https://cms.dmpcdn.com/livetv/2023/10/02/75023d90-60f1-11ee-935a-5d4eba985103_webp_original.webp",
 
-"url" : "https://edge6a.v2h-cdn.com/tnn24/tnn24.stream/playlist.m3u8",
+"url" : "https://oral.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/tnn24_1080p/playlist.m3u8",
 
-"referer" : "https://dookeela.live/",
+"referer" : "https://live-demo.iamtheme.com/",
 
 "userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 
@@ -216,7 +216,7 @@
 
 "image" : "https://cms.dmpcdn.com/livetv/2024/06/26/48fb8a90-338b-11ef-a958-ed31043c43a3_webp_original.webp",
 
-"url" : "https://cdnsv1.bunnycdncloud.com/andaman888th/pptv/digitaltv/pptv/chunks.m3u8",
+"url" : "https://lb1-live-mv.v2h-cdn.com/hls/ffab/pptv/pptv.m3u8",
 
 "referer" : "https://www.andaman888th.com/",
 
@@ -234,25 +234,7 @@
 
 "image" : "https://cms.dmpcdn.com/livetv/2019/01/10/35a35017-8473-4953-8474-5c58d805b74a.png",
 
-"url" : "https://streaming.monomax.me/Mono29LiveStream/ngrp:myStream_all/chunklist_b6628000.m3u8",
-
-"referer" : "https://dookeela.live/",
-
-"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-
-"desktop" : "true",
-
-"playInNatPlayer" : "true"
-
-},
-
-{
-
-"name" : "MONO 29 Plus",
-
-"image" : "https://img5.pic.in.th/file/secure-sv1/304776769_477304134394361_8762025903597306071_n.jpg",
-
-"url" : "https://dookeela.live/live-tv/mono29plus",
+"url" : "https://lb1-live-mv.v2h-cdn.com/hls/ffbc/mono29/mono29.m3u8",
 
 "referer" : "https://dookeela.live/",
 
