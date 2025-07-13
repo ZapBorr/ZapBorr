@@ -1,4 +1,23 @@
 {
+
+"name" : "DKL1",
+
+"image" : "https://dookeela.live/uploads/1718320056.png",
+
+"url" : "https://dookeela.live/live-tv/dklsport1",
+
+"referer" : "https://dookeela.live/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
+
+{
  
 "name" : "ไทยลีก",
  
