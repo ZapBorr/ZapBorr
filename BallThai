@@ -1,23 +1,4 @@
 {
-
-"name" : "DKL1",
-
-"image" : "https://dookeela.live/uploads/1718320056.png",
-
-"url" : "https://dookeela.live/live-tv/dklsport1",
-
-"referer" : "https://dookeela.live/",
-
-"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-
-"desktop" : "true",
-
-"playInNatPlayer" : "true"
-
-},
-
-
-{
  
 "name" : "ไทยลีก",
  
@@ -38,9 +19,9 @@
 
 "image" : "https://cms.dmpcdn.com/livetv/2023/08/02/89262f60-30e1-11ee-b445-3703761d6f4d_webp_original.webp",
 
-"url" : "https://cdn2.aws-live-streaming.com/168rich/trueballthai1/playlist.m3u8",
+"url" : "https://49-231-37-229-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL001/HLS/TL001.m3u8",
 
-"referer" : "https://168rich.tv/",
+"referer" : "https://ais-vidnt.com/",
 
 "userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 
@@ -56,9 +37,9 @@
 
 "image" : "https://cms.dmpcdn.com/livetv/2023/08/02/8a0c49a0-30e1-11ee-b220-4544ede97b74_webp_original.webp",
 
-"url" : "https://cdn2.aws-live-streaming.com/168rich/trueballthai2/playlist.m3u8",
+"url" : "https://49-231-37-229-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL002/HLS/TL002.m3u8",
 
-"referer" : "https://168rich.tv/",
+"referer" : "https://ais-vidnt.com/",
 
 "userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 
@@ -74,9 +55,9 @@
 
 "image" : "https://cms.dmpcdn.com/livetv/2023/08/02/8a3b21d0-30e1-11ee-a53e-b3f87dc8ba1e_webp_original.webp",
 
-"url" : "https://cdn2.aws-live-streaming.com/168rich/trueballthai3/playlist.m3u8",
+"url" : "https://49-231-37-229-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL003/HLS/TL003.m3u8",
 
-"referer" : "https://168rich.tv/",
+"referer" : "https://ais-vidnt.com/",
 
 "userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 
@@ -92,9 +73,9 @@
 
 "image" : "https://cms.dmpcdn.com/livetv/2024/02/01/e3adbba0-c0ed-11ee-9f09-d517c2f32137_webp_original.webp",
 
-"url" : "https://cdn2.aws-live-streaming.com/168rich/trueballthai4/playlist.m3u8",
+"url" : "https://49-231-37-229-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL004/HLS/TL004.m3u8",
 
-"referer" : "https://168rich.tv/",
+"referer" : "https://ais-vidnt.com/",
 
 "userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 
