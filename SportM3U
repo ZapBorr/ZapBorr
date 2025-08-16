@@ -145,7 +145,7 @@ https://dolive.thaim3u.com/demo-live-siamzeed-com/siamsport-5/chunks.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://dolive.thaim3u.com/demo-live-siamzeed-com/siamsport-6/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TrueSport 4" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cf4a2b50-b44d-11ee-aa7d-afe908f95743_webp_original.webp" group-title="TrueSport",TrueSport 5
+#EXTINF:-1 tvg-id="" tvg-name="TrueSport 4" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cf4a2b50-b44d-11ee-aa7d-afe908f95743_webp_original.webp" group-title="TrueSport",TrueSport 4
 #EXTVLCOPT:http-referrer=https://demo-live.siamzeed.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://dolive.thaim3u.com/demo-live-siamzeed-com/siamsport-7/chunks.m3u8
