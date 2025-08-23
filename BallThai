@@ -175,6 +175,24 @@
 
 },
 
+{
+
+"name" : "BALLTHAI 10",
+
+"image" : "https://img2.pic.in.th/pic/101a0c587dd729e8ec.png",
+
+"url" : "https://cdn1.googlecdnforstreaming.live/live/playsportsfootball10/chunks.m3u8",
+
+"referer" : "https://warpdooball.net/",
+
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+
+"desktop" : "true",
+
+"playInNatPlayer" : "true"
+
+},
+
 
 
 
