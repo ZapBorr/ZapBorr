@@ -54,9 +54,9 @@
 
 "image" : "https://img5.pic.in.th/file/secure-sv1/M3f3c1c5d19c47bf0a.jpg",
 
-"url" : "https://cdn2.googlecdnforstreaming.live/vv/monomax-3/chunks.m3u8",
+"url" : "http://45.139.122.199:2095/play/live.php?mac=10:27:BE:2E:33:76&stream=813035&extension=m3u8&play_token=",
 
-"referer" : "https://vvipscore.co/",
+"referer" : "https://raw.githubusercontent.com/",
 
 "userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 
@@ -72,9 +72,9 @@
 
 "image" : "https://img2.pic.in.th/pic/M4.jpg",
 
-"url" : "https://cdn2.googlecdnforstreaming.live/vv/monomax-4/chunks.m3u8",
+"url" : "http://45.139.122.199:2095/play/live.php?mac=10:27:BE:2E:33:76&stream=813036&extension=m3u8&play_token=",
 
-"referer" : "https://vvipscore.co/",
+"referer" : "https://raw.githubusercontent.com/",
 
 "userAgent" : "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 
